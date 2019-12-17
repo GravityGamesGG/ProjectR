@@ -1,0 +1,26 @@
+<template>
+  <div id="main">
+    <div v-bind:key="categorie" v-for="categorie in categorieList">
+      {{categorie}}
+    </div>
+  </div>
+</template>
+
+<script>
+export default {
+  name: 'charaCustom',
+  props: {},
+  data(){
+    return{
+      categorieList: ["Tete","Torse","Jambe","Pied"]
+    }
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+#main{
+  display: flex;
+}
+</style>

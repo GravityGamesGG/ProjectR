@@ -2970,3 +2970,124 @@
 [2019-12-15 22:13:20] [info] Detected CTRL+C, shutting down...
 [2019-12-15 22:13:20] [info] MariaDB: Unloading plugin...
 [2019-12-15 22:13:20] [info] MariaDB: Plugin unloaded.
+
+[2019-12-17 18:45:16] [info] Windows Server is starting
+[2019-12-17 18:45:16] [info] Detected 8 logical processors
+[2019-12-17 18:45:16] [info] Loaded 21 weapons from config
+[2019-12-17 18:45:17] [info] Loading plugin "mariadb"
+[2019-12-17 18:45:17] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-17 18:45:17] [info] Starting package "default"
+[2019-12-17 18:45:17] [script] Door Count: 567
+[2019-12-17 18:45:17] [info] Starting package "projectr"
+[2019-12-17 18:45:17] [error] Type of file "client/html/SPA/js/app.js.map" in package "projectr" is not supported, skipping...
+[2019-12-17 18:45:17] [error] Type of file "client/html/SPA/js/chunk-vendors.js.map" in package "projectr" is not supported, skipping...
+[2019-12-17 18:45:17] [info] Package load done, clients will download 11 files with a total of 174 KB
+[2019-12-17 18:45:17] [info] Max players set to 100
+[2019-12-17 18:45:17] [info] VoIP systems activated at 24000hz
+[2019-12-17 18:45:17] [info] Listening on 127.0.0.1
+[2019-12-17 18:45:17] [info] Open port channels:
+[2019-12-17 18:45:17] [info] 	UDP 7777 (game)
+[2019-12-17 18:45:17] [info] 	UDP 7776 (query)
+[2019-12-17 18:45:17] [info] 	TCP 7775 (file)
+[2019-12-17 18:45:17] [info] Server loaded. Entering simulation...
+[2019-12-17 18:45:38] [info] Client requesting connection 127.0.0.1:49666
+[2019-12-17 18:45:38] [info] Player (ID 1) joining the game (127.0.0.1:49666)
+[2019-12-17 18:47:25] [info] Detected CTRL+C, shutting down...
+[2019-12-17 18:47:25] [info] MariaDB: Unloading plugin...
+[2019-12-17 18:47:25] [info] MariaDB: Plugin unloaded.
+
+[2019-12-17 18:47:27] [info] Windows Server is starting
+[2019-12-17 18:47:27] [info] Detected 8 logical processors
+[2019-12-17 18:47:27] [info] Loaded 21 weapons from config
+[2019-12-17 18:47:27] [info] Loading plugin "mariadb"
+[2019-12-17 18:47:27] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-17 18:47:27] [info] Starting package "default"
+[2019-12-17 18:47:27] [script] Door Count: 567
+[2019-12-17 18:47:27] [info] Starting package "projectr"
+[2019-12-17 18:47:27] [error] Type of file "client/html/SPA/js/app.js.map" in package "projectr" is not supported, skipping...
+[2019-12-17 18:47:27] [error] Type of file "client/html/SPA/js/chunk-vendors.js.map" in package "projectr" is not supported, skipping...
+[2019-12-17 18:47:27] [info] Package load done, clients will download 11 files with a total of 174 KB
+[2019-12-17 18:47:27] [info] Max players set to 100
+[2019-12-17 18:47:27] [info] VoIP systems activated at 24000hz
+[2019-12-17 18:47:27] [info] Listening on 127.0.0.1
+[2019-12-17 18:47:27] [info] Open port channels:
+[2019-12-17 18:47:27] [info] 	UDP 7777 (game)
+[2019-12-17 18:47:27] [info] 	UDP 7776 (query)
+[2019-12-17 18:47:27] [info] 	TCP 7775 (file)
+[2019-12-17 18:47:27] [info] Server loaded. Entering simulation...
+[2019-12-17 18:47:29] [info] Client requesting connection 127.0.0.1:49666
+[2019-12-17 18:47:29] [info] Player (ID 1) joining the game (127.0.0.1:49666)
+[2019-12-17 19:11:35] [info] Detected CTRL+C, shutting down...
+[2019-12-17 19:11:35] [info] MariaDB: Unloading plugin...
+[2019-12-17 19:11:35] [info] MariaDB: Plugin unloaded.
+
+[2019-12-17 19:12:09] [info] Windows Server is starting
+[2019-12-17 19:12:09] [info] Detected 8 logical processors
+[2019-12-17 19:12:09] [info] Loaded 21 weapons from config
+[2019-12-17 19:12:09] [info] Loading plugin "mariadb"
+[2019-12-17 19:12:09] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-17 19:12:09] [info] Starting package "default"
+[2019-12-17 19:12:09] [script] Door Count: 567
+[2019-12-17 19:12:09] [info] Starting package "projectr"
+[2019-12-17 19:12:09] [info] Package load done, clients will download 11 files with a total of 174 KB
+[2019-12-17 19:12:09] [info] Max players set to 100
+[2019-12-17 19:12:09] [info] VoIP systems activated at 24000hz
+[2019-12-17 19:12:09] [info] Listening on 127.0.0.1
+[2019-12-17 19:12:09] [info] Open port channels:
+[2019-12-17 19:12:09] [info] 	UDP 7777 (game)
+[2019-12-17 19:12:09] [info] 	UDP 7776 (query)
+[2019-12-17 19:12:09] [info] 	TCP 7775 (file)
+[2019-12-17 19:12:09] [info] Server loaded. Entering simulation...
+[2019-12-17 19:12:12] [info] Client requesting connection 127.0.0.1:49666
+[2019-12-17 19:12:13] [info] Player (ID 1) joining the game (127.0.0.1:49666)
+[2019-12-17 20:07:59] [info] Detected CTRL+C, shutting down...
+[2019-12-17 20:07:59] [info] MariaDB: Unloading plugin...
+[2019-12-17 20:07:59] [info] MariaDB: Plugin unloaded.
+
+[2019-12-17 20:08:00] [info] Windows Server is starting
+[2019-12-17 20:08:00] [info] Detected 8 logical processors
+[2019-12-17 20:08:01] [info] Loaded 21 weapons from config
+[2019-12-17 20:08:01] [info] Loading plugin "mariadb"
+[2019-12-17 20:08:01] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-17 20:08:01] [info] Starting package "default"
+[2019-12-17 20:08:01] [script] Door Count: 567
+[2019-12-17 20:08:01] [info] Starting package "projectr"
+[2019-12-17 20:08:01] [warning] File "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/client/html/css/app.css" in package "projectr" not found
+[2019-12-17 20:08:01] [warning] File "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/client/html/img/logo.png" in package "projectr" not found
+[2019-12-17 20:08:01] [warning] File "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/client/html/js/app.js" in package "projectr" not found
+[2019-12-17 20:08:01] [warning] File "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/client/html/js/chunk-vendors.js" in package "projectr" not found
+[2019-12-17 20:08:01] [info] Package load done, clients will download 7 files with a total of 71 KB
+[2019-12-17 20:08:01] [info] Max players set to 100
+[2019-12-17 20:08:01] [info] VoIP systems activated at 24000hz
+[2019-12-17 20:08:01] [info] Listening on 127.0.0.1
+[2019-12-17 20:08:01] [info] Open port channels:
+[2019-12-17 20:08:01] [info] 	UDP 7777 (game)
+[2019-12-17 20:08:01] [info] 	UDP 7776 (query)
+[2019-12-17 20:08:01] [info] 	TCP 7775 (file)
+[2019-12-17 20:08:01] [info] Server loaded. Entering simulation...
+[2019-12-17 20:08:02] [info] Client requesting connection 127.0.0.1:49666
+[2019-12-17 20:08:03] [info] Player (ID 1) joining the game (127.0.0.1:49666)
+[2019-12-17 20:08:57] [info] Detected CTRL+C, shutting down...
+[2019-12-17 20:08:57] [info] MariaDB: Unloading plugin...
+[2019-12-17 20:08:57] [info] MariaDB: Plugin unloaded.
+
+[2019-12-17 20:08:59] [info] Windows Server is starting
+[2019-12-17 20:08:59] [info] Detected 8 logical processors
+[2019-12-17 20:08:59] [info] Loaded 21 weapons from config
+[2019-12-17 20:08:59] [info] Loading plugin "mariadb"
+[2019-12-17 20:08:59] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-17 20:08:59] [info] Starting package "default"
+[2019-12-17 20:08:59] [script] Door Count: 567
+[2019-12-17 20:08:59] [info] Starting package "projectr"
+[2019-12-17 20:08:59] [warning] File "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/client/html/img/logo.png" in package "projectr" not found
+[2019-12-17 20:08:59] [info] Package load done, clients will download 10 files with a total of 165 KB
+[2019-12-17 20:08:59] [info] Max players set to 100
+[2019-12-17 20:08:59] [info] VoIP systems activated at 24000hz
+[2019-12-17 20:08:59] [info] Listening on 127.0.0.1
+[2019-12-17 20:08:59] [info] Open port channels:
+[2019-12-17 20:08:59] [info] 	UDP 7777 (game)
+[2019-12-17 20:08:59] [info] 	UDP 7776 (query)
+[2019-12-17 20:08:59] [info] 	TCP 7775 (file)
+[2019-12-17 20:08:59] [info] Server loaded. Entering simulation...
+[2019-12-17 20:09:01] [info] Client requesting connection 127.0.0.1:49666
+[2019-12-17 20:09:01] [info] Player (ID 1) joining the game (127.0.0.1:49666)
