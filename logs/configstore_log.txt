@@ -563,3 +563,25 @@
 
 [2019-12-17 20:08:59] Loaded store 'install' from 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf' successfully
 [2019-12-17 20:09:00] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
+
+
+[2019-12-17 20:18:47] Loaded store 'install' from 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf' successfully
+[2019-12-17 20:18:49] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
+
+
+[2019-12-17 20:20:00] Loaded store 'install' from 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf' successfully
+[2019-12-17 20:20:03] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
+
+
+[2019-12-17 20:21:56] Loaded store 'install' from 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf' successfully
+[2019-12-17 20:21:57] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
+[2019-12-17 20:21:58] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
+
+
+[2019-12-17 20:25:41] Loaded store 'install' from 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf' successfully
+[2019-12-17 20:25:44] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
+
+
+[2019-12-17 20:32:26] Loaded store 'install' from 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf' successfully
+[2019-12-17 20:32:28] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
+[2019-12-17 20:32:29] Flushed store 'install' to 'C:\Users\Johny\Documents\DEV\Onset\server\config\config.vdf'
