@@ -1,6 +1,6 @@
 <template>
   <div id="main">
-    <div v-bind:key="categorie" v-for="categorie in categorieList">
+    <div :key="categorie" v-for="categorie in categorieList">
       {{categorie}}
     </div>
   </div>
@@ -21,7 +21,15 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 #main{
+  width: 25vw;
+  height: 100%;
+  background-color: blue;
+  margin: 30px;
+
+
   display: flex;
   flex-direction: column;
+  align-items: stretch;
+  
 }
 </style>
