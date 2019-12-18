@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <charaCustom v-show="showCharaCustom"></charaCustom>
+    <div>yolo yolo yolo</div>
   </div>
 </template>
 
