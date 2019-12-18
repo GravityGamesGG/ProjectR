@@ -21,9 +21,11 @@ AddEvent("OnKeyPress", function (key)
 
         local sizeX, sizeY, sizeZ = GetObjectSize(id)
         if(sizeX ~= nil and sizeY ~= nil and sizeZ ~= nil) then
-            AddPlayerChat("X: " ..sizeX.. "Y: " ..sizeY.. "Z:" ..sizeZ)
+            AddPlayerChat("Size X: " ..sizeX.. "Size Y: " ..sizeY.. "Size Z:" ..sizeZ)
         end
         SetObjectOutline(id)
 
+        local coll1 = CreateCollisionBox(x1, y1, z1, x1+100, y1+100, z1+100, false)
+        AddPlayerChat("")
     end
 end)

@@ -7,4 +7,5 @@ AddEvent("OnPlayerSpawn", function()
 
     SetPlayerOutline(GetPlayerId(), true)
     SetPlayerClothingPreset(GetPlayerId(), 11)
+
 end)

@@ -11,8 +11,10 @@
 		"client/init.lua",
 		"client/events/OnGameTick.lua",
 		"client/events/OnPlayerSpawn.lua",
+		"client/events/OnCollisionEnter.lua",
 		"client/serverEvents/test.lua",
-		"client/events/OnKeyPress.lua"
+		"client/events/OnKeyPress.lua",
+		"client/collision/marketDrink.lua"
 	],
 	"files": [
 		"client/html/index.html",
