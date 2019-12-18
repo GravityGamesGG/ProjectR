@@ -1,11 +1,13 @@
 AddEvent("OnKeyPress", function(key)
     if key == "Left Alt" then
+        SetIgnoreLookInput(true)
         ShowMouseCursor(true)
     end
 end)
 
 AddEvent("OnKeyRelease", function(key)
     if key == "Left Alt" then
+        SetIgnoreLookInput(false)
         ShowMouseCursor(false)
     end
 end)
