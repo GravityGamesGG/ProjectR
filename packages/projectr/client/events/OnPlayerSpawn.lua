@@ -6,4 +6,5 @@ AddEvent("OnPlayerSpawn", function()
     SetWebVisibility(web, WEB_HITINVISIBLE)
 
     SetPlayerOutline(GetPlayerId(), true)
+    SetPlayerClothingPreset(GetPlayerId(), 11)
 end)

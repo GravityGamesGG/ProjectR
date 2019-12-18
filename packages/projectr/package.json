@@ -4,7 +4,8 @@
 	"server_scripts": [
 		"server/init.lua",
 		"server/events/OnPlayerJoin.lua",
-		"server/commands/test.lua"
+		"server/commands/test.lua",
+		"server/commands/vehicle.lua"
 	],
 	"client_scripts": [
 		"client/init.lua",
