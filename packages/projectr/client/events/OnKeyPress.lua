@@ -32,6 +32,7 @@ end)
 AddEvent("OnKeyPress", function(key)
     if key == "R" then
         local x1, y1, z1 = GetPlayerLocation(GetPlayerId())
-        local coll1 = CreateCollisionBox(x1, y1, z1, x1+100, y1+100, z1+100, false)
+        local coll1 = CreateCollisionBox(128267, 77617, 1547, 
+            128012, 77621, 1535, true)
     end
 end)

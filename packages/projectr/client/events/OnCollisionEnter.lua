@@ -1,7 +1,7 @@
 AddEvent("OnCollisionEnter", function(collision, hittype, hitid)
-    AddPlayerChat("Collision Enter - colId :" ..collision.. "hitType : " ..hittype)
+    AddPlayerChat("Collision Enter - collision ID :" ..collision.. " hitType : " ..hittype.. " hitId : " ..hitid)
 end)
 
 AddEvent("OnCollisionLeave", function(collision, hittype, hitid)
-    AddPlayerChat("Collision Exit - colId :" ..collision.. "hitType : " ..hittype)
+    AddPlayerChat("Collision Exit - collision ID :" ..collision.. " hitType : " ..hittype.. " hitId : " ..hitid)
 end)
