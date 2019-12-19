@@ -421,3 +421,69 @@
 
 
 [2019-12-18 20:06:46] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 22:01:19] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:19:17] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:31:59] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:32:12] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:36:37] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:43:18] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:53:22] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:54:39] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:55:09] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-18 23:55:34] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:09:43] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:11:06] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:12:51] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:17:51] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:19:18] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:20:39] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:21:05] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:22:00] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:26:00] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:27:37] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:28:03] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 00:32:48] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
