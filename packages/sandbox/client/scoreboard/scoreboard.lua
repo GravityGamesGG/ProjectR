@@ -9,14 +9,14 @@ function Scoreboard_OnPackageStart()
 end
 AddEvent("OnPackageStart", Scoreboard_OnPackageStart)
 
-function Scoreboard_OnKeyPress(key)
+--[[function Scoreboard_OnKeyPress(key)
   if key == 'Tab' then
     CallRemoteEvent('RequestScoreboardUpdate')
     SetInputMode(INPUT_GAMEANDUI)
     SetWebVisibility(ScoreboardUI, WEB_VISIBLE)
   end
 end
-AddEvent('OnKeyPress', Scoreboard_OnKeyPress)
+AddEvent('OnKeyPress', Scoreboard_OnKeyPress)]]
 
 function Scoreboard_OnKeyRelease(key)
   if key == 'Tab' then

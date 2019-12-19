@@ -520,3 +520,57 @@
 
 
 [2019-12-19 12:49:14] Loaded 1 apps from install folder "D:\GITHUB\ProjectR\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 19:38:37] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 19:55:47] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 19:56:10] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 20:31:18] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:41:33] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:42:26] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:42:57] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:43:20] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:43:51] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:44:22] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:45:48] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:46:24] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:47:25] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:51:46] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:54:35] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:55:35] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 21:55:59] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-19 22:01:35] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".

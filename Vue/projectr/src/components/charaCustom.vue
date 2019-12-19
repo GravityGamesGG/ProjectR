@@ -12,7 +12,7 @@ export default {
   props: {},
   data(){
     return{
-      categorieList: ["Tete","Torse","Jambe","Pied"]
+      categorieList: ["Accessoires", "Tete","Torse","Jambe","Pied"]
     }
   }
 }
@@ -22,14 +22,32 @@ export default {
 <style scoped>
 #main{
   width: 25vw;
-  height: 100%;
-  background-color: blue;
   margin: 30px;
+  background-color: lightgray;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 15px;
 
 
   display: flex;
   flex-direction: column;
   align-items: stretch;
+  justify-content: space-between;
   
+}
+
+#main>div{
+  background-color: gray;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 15px;
+  text-align: center;
+  color: white;
+  font-size: 22px;
+  margin-bottom: 20px;
+}
+
+#main>div:hover{
+  background-color: lightblue;
 }
 </style>

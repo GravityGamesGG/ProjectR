@@ -19,7 +19,6 @@
 	"files": [
 		"client/html/index.html",
 		"client/html/css/app.css",
-		"client/html/img/logo.png",
 		"client/html/js/app.js",
 		"client/html/js/chunk-vendors.js"
 	]

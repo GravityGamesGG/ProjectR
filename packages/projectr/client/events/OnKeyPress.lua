@@ -1,18 +1,11 @@
 AddEvent("OnKeyPress", function(key)
+    --AddPlayerChat(key)
     if key == "Left Alt" then
         SetIgnoreLookInput(true)
         ShowMouseCursor(true)
+        SetInputMode(INPUT_GAMEANDUI)
     end
-end)
 
-AddEvent("OnKeyRelease", function(key)
-    if key == "Left Alt" then
-        SetIgnoreLookInput(false)
-        ShowMouseCursor(false)
-    end
-end)
-
-AddEvent("OnKeyPress", function (key)
     if key == "E" then
         local scalar = 100
         local x1, y1, z1 = GetPlayerLocation(GetPlayerId())
@@ -27,12 +20,22 @@ AddEvent("OnKeyPress", function (key)
         end
         SetObjectOutline(id)
     end
-end)
 
-AddEvent("OnKeyPress", function(key)
     if key == "R" then
         local x1, y1, z1 = GetPlayerLocation(GetPlayerId())
         local coll1 = CreateCollisionBox(128267, 77617, 1547, 
             128012, 77621, 1535, true)
+    end
+
+    if key == "Tab" then
+        ExecuteWebJS(webui, "window.vm.showCharaCustom = !window.vm.showCharaCustom")
+    end
+end)
+
+AddEvent("OnKeyRelease", function(key)
+    if key == "Left Alt" then
+        SetIgnoreLookInput(false)
+        ShowMouseCursor(false)
+        SetInputMode(INPUT_GAME)
     end
 end)

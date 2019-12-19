@@ -1,11 +1,11 @@
 AddEvent("OnPlayerSpawn", function()
-    local web = CreateWebUI(0, 0, 0, 0, 0, 30)
-    SetWebURL(web, "http://asset/projectr/client/html/index.html")
-    SetWebAlignment(web, 0.0, 0.0)
-    SetWebAnchors(web, 0.0, 0.0, 1.0, 1.0)
-    SetWebVisibility(web, WEB_HITINVISIBLE)
+    webui = CreateWebUI(0, 0, 0, 0, 0, 60)
+    SetWebURL(webui, "http://asset/projectr/client/html/index.html")
+    SetWebAlignment(webui, 0.0, 0.0)
+    SetWebAnchors(webui, 0.0, 0.0, 1.0, 1.0)
+    SetWebVisibility(webui, WEB_VISIBLE)
 
-    --SetPlayerOutline(GetPlayerId(), true)
+    
     SetPlayerClothingPreset(GetPlayerId(), 11)
 
 end)

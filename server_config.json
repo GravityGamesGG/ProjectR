@@ -16,8 +16,6 @@
 	"packages": [
 		"default",
 		"projectr",
-		"mapeditor",
-		"freeroam",
 		"sandbox"
 	],
 	"stream_distance": 12000.0,

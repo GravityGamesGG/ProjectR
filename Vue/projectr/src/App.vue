@@ -1,7 +1,6 @@
 <template>
   <div id="app">
-    <charaCustom v-show="showCharaCustom"></charaCustom>
-    <div>yolo yolo yolo</div>
+    <charaCustom v-show="$root.showCharaCustom"></charaCustom>
   </div>
 </template>
 
@@ -14,9 +13,7 @@ export default {
     charaCustom
   },
   data(){
-    return{
-      showCharaCustom: true
-    }
+    return{}
   }
 }
 </script>
@@ -24,6 +21,8 @@ export default {
 <style>
 html {
     box-sizing: border-box;
+    user-select: none;
+    cursor: default;
 }
 *, *:before, *:after {
     box-sizing: inherit;
