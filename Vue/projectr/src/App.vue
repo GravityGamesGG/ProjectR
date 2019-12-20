@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <charaCustom v-show="$root.showCharaCustom"></charaCustom>
+    <charaCustom v-show="$root.showCharaCustom"/>
   </div>
 </template>
 

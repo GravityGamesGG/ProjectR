@@ -1,6 +1,6 @@
 <template>
-  <div id="main">
-    <categorie :key="cat" v-for="cat in categorieList" :namecat="cat"></categorie>
+  <div class="charaCustomContainer">
+    <categorie :key="cat" v-for="cat in categorieList" :namecat="cat"/>
   </div>
 </template>
 
@@ -23,32 +23,14 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-#main {
+.charaCustomContainer {
   width: 40vw;
   margin: 30px;
-  background-color: lightgray;
-  padding: 20px;
-  border: 1px solid black;
-  border-radius: 15px;
+  height: calc(100vh - 60px);
 
   display: flex;
   flex-direction: column;
   align-items: stretch;
-  justify-content: space-between;
-}
-
-#main > div {
-  background-color: gray;
-  padding: 10px;
-  border: 1px solid black;
-  border-radius: 15px;
-  text-align: center;
-  color: white;
-  font-size: 22px;
-  margin-bottom: 20px;
-}
-
-#main > div:hover {
-  background-color: lightblue;
+  overflow: auto;
 }
 </style>
