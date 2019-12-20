@@ -24,7 +24,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 #main {
-  width: 25vw;
+  width: 40vw;
   margin: 30px;
   background-color: lightgray;
   padding: 20px;

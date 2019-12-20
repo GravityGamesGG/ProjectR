@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div @clic="catclic(namecat.toLowerCase()+'content')">{{namecat}}</div>
-    <div :id="namecat.toLowerCase()+'content'"></div>
+    <div @click="catclic()">{{namecat}}</div>
+    <div v-if="show">fgdbdfshrshgsfh</div>
   </div>
 </template>
 
@@ -13,11 +13,14 @@ export default {
   },
   data() {
     return {
-      categorieList: ["Accessoires", "Tete", "Torse", "Jambe", "Pied"]
+      categorieList: ["Accessoires", "Tete", "Torse", "Jambe", "Pied"],
+      show: false
     };
   },
   methods: {
-    catclic() {}
+    catclic() {
+      this.show = !this.show;
+    }
   }
 };
 </script>
