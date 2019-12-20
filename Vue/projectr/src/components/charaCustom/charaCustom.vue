@@ -1,26 +1,29 @@
 <template>
   <div id="main">
-    <div :key="categorie" v-for="categorie in categorieList">
-      {{categorie}}
-    </div>
+    <categorie :key="cat" v-for="cat in categorieList" :namecat="cat"></categorie>
   </div>
 </template>
 
 <script>
+import categorie from "./categorie";
+
 export default {
-  name: 'charaCustom',
+  name: "charaCustom",
+  components: {
+    categorie
+  },
   props: {},
-  data(){
-    return{
-      categorieList: ["Accessoires", "Tete","Torse","Jambe","Pied"]
-    }
+  data() {
+    return {
+      categorieList: ["Accessoires", "Tete", "Torse", "Jambe", "Pied"]
+    };
   }
-}
+};
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-#main{
+#main {
   width: 25vw;
   margin: 30px;
   background-color: lightgray;
@@ -28,15 +31,13 @@ export default {
   border: 1px solid black;
   border-radius: 15px;
 
-
   display: flex;
   flex-direction: column;
   align-items: stretch;
   justify-content: space-between;
-  
 }
 
-#main>div{
+#main > div {
   background-color: gray;
   padding: 10px;
   border: 1px solid black;
@@ -47,7 +48,7 @@ export default {
   margin-bottom: 20px;
 }
 
-#main>div:hover{
+#main > div:hover {
   background-color: lightblue;
 }
 </style>

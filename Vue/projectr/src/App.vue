@@ -5,27 +5,29 @@
 </template>
 
 <script>
-import charaCustom from './components/charaCustom.vue'
+import charaCustom from "./components/charaCustom/charaCustom.vue";
 
 export default {
-  name: 'app',
+  name: "app",
   components: {
     charaCustom
   },
-  data(){
-    return{}
+  data() {
+    return {};
   }
-}
+};
 </script>
 
 <style>
 html {
-    box-sizing: border-box;
-    user-select: none;
-    cursor: default;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: default;
 }
-*, *:before, *:after {
-    box-sizing: inherit;
-    margin: 0px;
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0px;
 }
 </style>
