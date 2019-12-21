@@ -1,11 +1,38 @@
 <template>
   <div class="charaCustomContainer">
-    <categorie :key="cat" v-for="cat in categorieList" :namecat="cat"/>
+    <categorie :key="cat" v-for="cat in customData" :catName="cat.name" :catData="cat.data"/>
   </div>
 </template>
 
 <script>
+//Import des composants
 import categorie from "./categorie";
+
+//Import des data pour chaque partie du corp
+import corpData from "./data/corp";
+import teteData from "./data/tete";
+import torseData from "./data/torse";
+import chaussureData from "./data/chaussure";
+
+let customData = [
+  {
+    name: "Corp",
+    data: corpData
+  },
+  {
+    name: "Tête",
+    data: teteData
+  },
+  {
+    name: "Torse",
+    data: torseData
+  },
+  {
+    name: "Pied",
+    data: chaussureData
+  }
+];
+
 
 export default {
   name: "charaCustom",
@@ -15,7 +42,7 @@ export default {
   props: {},
   data() {
     return {
-      categorieList: ["Accessoires", "Tete", "Torse", "Jambe", "Pied"]
+      customData
     };
   }
 };
