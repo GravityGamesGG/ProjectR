@@ -14,7 +14,9 @@
 		"client/localEvents/OnCollisionEnter.lua",
 		"client/serverEvents/test.lua",
 		"client/localEvents/OnKeyPress.lua",
-		"client/collision/marketDrink.lua"
+		"client/collision/marketDrink.lua",
+		"client/uiEvents/charaCustom/charaCustomEvent.lua",
+		"client/localEvents/OnPackageStart.lua"
 	],
 	"files": [
 		"client/html/index.html",

@@ -51,7 +51,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .charaCustomContainer {
-  width: 40vw;
+  width: 20vw;
   margin: 30px;
   height: calc(100vh - 60px);
 

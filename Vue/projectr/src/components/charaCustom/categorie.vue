@@ -2,7 +2,7 @@
   <div class="catContainer">
     <div :class="{catHeaderSelected: show, catHeader: !show}" @click="catclic()">{{catName}}</div>
     <div class="catContent" v-if="show">
-      <div class="catItem" :key="el" v-for="el in catData" @click="clickedItem()">{{elName(el)}}</div>
+      <div class="catItem" :key="el" v-for="el in catData" @click="clickedItem(el)">{{elName(el)}}</div>
     </div>
   </div>
 </template>
@@ -27,8 +27,8 @@ export default {
       let arr = el.split("/");
       return arr[arr.length-1]
     },
-    clickedItem(){
-      window.ue.game.callevent("charaCustom", JSON.stringify(["1", "2", {test: "test"}]));
+    clickedItem(el){
+      window.ue.game.callevent("charaCustom", JSON.stringify([this.catName.toLowerCase(), el]));
     }
   }
 }

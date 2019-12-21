@@ -5306,3 +5306,340 @@
 [2019-12-21 21:02:15] [info] Detected CTRL+C, shutting down...
 [2019-12-21 21:02:16] [info] MariaDB: Unloading plugin...
 [2019-12-21 21:02:16] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 21:13:33] [info] Windows Server is starting
+[2019-12-21 21:13:33] [info] Detected 8 logical processors
+[2019-12-21 21:13:33] [info] Loaded 21 weapons from config
+[2019-12-21 21:13:33] [info] Loading plugin "mariadb"
+[2019-12-21 21:13:33] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 21:13:33] [info] Loading plugin "ini-plugin"
+[2019-12-21 21:13:33] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 21:13:33] [info] Starting package "default"
+[2019-12-21 21:13:33] [script] Door Count: 567
+[2019-12-21 21:13:33] [info] Starting package "projectr"
+[2019-12-21 21:13:33] [info] Starting package "sandbox"
+[2019-12-21 21:13:33] [script] Server: Attempting to load world.
+[2019-12-21 21:13:33] [script] Server: World loaded!
+[2019-12-21 21:13:33] [info] Package load done, clients will download 108 files with a total of 1471 KB
+[2019-12-21 21:13:33] [info] Max players set to 100
+[2019-12-21 21:13:33] [info] VoIP systems activated at 24000hz
+[2019-12-21 21:13:33] [info] Listening on 127.0.0.1
+[2019-12-21 21:13:33] [info] Open port channels:
+[2019-12-21 21:13:33] [info] 	UDP 7777 (game)
+[2019-12-21 21:13:33] [info] 	UDP 7776 (query)
+[2019-12-21 21:13:33] [info] 	TCP 7775 (file)
+[2019-12-21 21:13:33] [info] Server loaded. Entering simulation...
+[2019-12-21 21:13:37] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 21:13:37] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 21:15:55] [info] Detected CTRL+C, shutting down...
+[2019-12-21 21:15:55] [info] MariaDB: Unloading plugin...
+[2019-12-21 21:15:55] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 21:15:56] [info] Windows Server is starting
+[2019-12-21 21:15:56] [info] Detected 8 logical processors
+[2019-12-21 21:15:56] [info] Loaded 21 weapons from config
+[2019-12-21 21:15:56] [info] Loading plugin "mariadb"
+[2019-12-21 21:15:56] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 21:15:56] [info] Loading plugin "ini-plugin"
+[2019-12-21 21:15:56] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 21:15:56] [info] Starting package "default"
+[2019-12-21 21:15:56] [script] Door Count: 567
+[2019-12-21 21:15:56] [info] Starting package "projectr"
+[2019-12-21 21:15:56] [info] Starting package "sandbox"
+[2019-12-21 21:15:56] [script] Server: Attempting to load world.
+[2019-12-21 21:15:56] [script] Server: World loaded!
+[2019-12-21 21:15:56] [info] Package load done, clients will download 108 files with a total of 1471 KB
+[2019-12-21 21:15:56] [info] Max players set to 100
+[2019-12-21 21:15:56] [info] VoIP systems activated at 24000hz
+[2019-12-21 21:15:56] [info] Listening on 127.0.0.1
+[2019-12-21 21:15:56] [info] Open port channels:
+[2019-12-21 21:15:56] [info] 	UDP 7777 (game)
+[2019-12-21 21:15:56] [info] 	UDP 7776 (query)
+[2019-12-21 21:15:56] [info] 	TCP 7775 (file)
+[2019-12-21 21:15:56] [info] Server loaded. Entering simulation...
+[2019-12-21 21:15:58] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 21:15:59] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 21:16:34] [info] Detected CTRL+C, shutting down...
+[2019-12-21 21:16:34] [info] MariaDB: Unloading plugin...
+[2019-12-21 21:16:34] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 21:16:36] [info] Windows Server is starting
+[2019-12-21 21:16:36] [info] Detected 8 logical processors
+[2019-12-21 21:16:36] [info] Loaded 21 weapons from config
+[2019-12-21 21:16:36] [info] Loading plugin "mariadb"
+[2019-12-21 21:16:36] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 21:16:36] [info] Loading plugin "ini-plugin"
+[2019-12-21 21:16:36] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 21:16:36] [info] Starting package "default"
+[2019-12-21 21:16:36] [script] Door Count: 567
+[2019-12-21 21:16:36] [info] Starting package "projectr"
+[2019-12-21 21:16:36] [info] Starting package "sandbox"
+[2019-12-21 21:16:36] [script] Server: Attempting to load world.
+[2019-12-21 21:16:36] [script] Server: World loaded!
+[2019-12-21 21:16:36] [info] Package load done, clients will download 108 files with a total of 1471 KB
+[2019-12-21 21:16:36] [info] Max players set to 100
+[2019-12-21 21:16:36] [info] VoIP systems activated at 24000hz
+[2019-12-21 21:16:36] [info] Listening on 127.0.0.1
+[2019-12-21 21:16:36] [info] Open port channels:
+[2019-12-21 21:16:36] [info] 	UDP 7777 (game)
+[2019-12-21 21:16:36] [info] 	UDP 7776 (query)
+[2019-12-21 21:16:36] [info] 	TCP 7775 (file)
+[2019-12-21 21:16:36] [info] Server loaded. Entering simulation...
+[2019-12-21 21:16:38] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 21:16:38] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 21:19:36] [info] Detected CTRL+C, shutting down...
+[2019-12-21 21:19:36] [info] MariaDB: Unloading plugin...
+[2019-12-21 21:19:36] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 21:19:38] [info] Windows Server is starting
+[2019-12-21 21:19:38] [info] Detected 8 logical processors
+[2019-12-21 21:19:38] [info] Loaded 21 weapons from config
+[2019-12-21 21:19:38] [info] Loading plugin "mariadb"
+[2019-12-21 21:19:38] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 21:19:38] [info] Loading plugin "ini-plugin"
+[2019-12-21 21:19:38] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 21:19:38] [info] Starting package "default"
+[2019-12-21 21:19:38] [script] Door Count: 567
+[2019-12-21 21:19:38] [info] Starting package "projectr"
+[2019-12-21 21:19:38] [info] Starting package "sandbox"
+[2019-12-21 21:19:38] [script] Server: Attempting to load world.
+[2019-12-21 21:19:38] [script] Server: World loaded!
+[2019-12-21 21:19:38] [info] Package load done, clients will download 108 files with a total of 1471 KB
+[2019-12-21 21:19:38] [info] Max players set to 100
+[2019-12-21 21:19:38] [info] VoIP systems activated at 24000hz
+[2019-12-21 21:19:38] [info] Listening on 127.0.0.1
+[2019-12-21 21:19:38] [info] Open port channels:
+[2019-12-21 21:19:38] [info] 	UDP 7777 (game)
+[2019-12-21 21:19:38] [info] 	UDP 7776 (query)
+[2019-12-21 21:19:38] [info] 	TCP 7775 (file)
+[2019-12-21 21:19:38] [info] Server loaded. Entering simulation...
+[2019-12-21 21:19:40] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 21:19:40] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:19:52] [info] Detected CTRL+C, shutting down...
+[2019-12-21 22:19:52] [info] MariaDB: Unloading plugin...
+[2019-12-21 22:19:52] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 22:19:54] [info] Windows Server is starting
+[2019-12-21 22:19:54] [info] Detected 8 logical processors
+[2019-12-21 22:19:54] [info] Loaded 21 weapons from config
+[2019-12-21 22:19:54] [info] Loading plugin "mariadb"
+[2019-12-21 22:19:54] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 22:19:54] [info] Loading plugin "ini-plugin"
+[2019-12-21 22:19:54] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 22:19:54] [info] Starting package "default"
+[2019-12-21 22:19:54] [script] Door Count: 567
+[2019-12-21 22:19:54] [info] Starting package "projectr"
+[2019-12-21 22:19:54] [info] Starting package "sandbox"
+[2019-12-21 22:19:54] [script] Server: Attempting to load world.
+[2019-12-21 22:19:54] [script] Server: World loaded!
+[2019-12-21 22:19:54] [info] Package load done, clients will download 108 files with a total of 1471 KB
+[2019-12-21 22:19:54] [info] Max players set to 100
+[2019-12-21 22:19:54] [info] VoIP systems activated at 24000hz
+[2019-12-21 22:19:54] [info] Listening on 127.0.0.1
+[2019-12-21 22:19:54] [info] Open port channels:
+[2019-12-21 22:19:54] [info] 	UDP 7777 (game)
+[2019-12-21 22:19:54] [info] 	UDP 7776 (query)
+[2019-12-21 22:19:54] [info] 	TCP 7775 (file)
+[2019-12-21 22:19:54] [info] Server loaded. Entering simulation...
+[2019-12-21 22:19:57] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 22:19:57] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:20:16] [info] Detected CTRL+C, shutting down...
+[2019-12-21 22:20:16] [info] MariaDB: Unloading plugin...
+[2019-12-21 22:20:16] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 22:20:23] [info] Windows Server is starting
+[2019-12-21 22:20:23] [info] Detected 8 logical processors
+[2019-12-21 22:20:23] [info] Loaded 21 weapons from config
+[2019-12-21 22:20:23] [info] Loading plugin "mariadb"
+[2019-12-21 22:20:23] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 22:20:23] [info] Loading plugin "ini-plugin"
+[2019-12-21 22:20:23] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 22:20:23] [info] Starting package "default"
+[2019-12-21 22:20:23] [script] Door Count: 567
+[2019-12-21 22:20:23] [info] Starting package "projectr"
+[2019-12-21 22:20:23] [info] Starting package "sandbox"
+[2019-12-21 22:20:24] [script] Server: Attempting to load world.
+[2019-12-21 22:20:24] [script] Server: World loaded!
+[2019-12-21 22:20:24] [info] Package load done, clients will download 108 files with a total of 1471 KB
+[2019-12-21 22:20:24] [info] Max players set to 100
+[2019-12-21 22:20:24] [info] VoIP systems activated at 24000hz
+[2019-12-21 22:20:24] [info] Listening on 127.0.0.1
+[2019-12-21 22:20:24] [info] Open port channels:
+[2019-12-21 22:20:24] [info] 	UDP 7777 (game)
+[2019-12-21 22:20:24] [info] 	UDP 7776 (query)
+[2019-12-21 22:20:24] [info] 	TCP 7775 (file)
+[2019-12-21 22:20:24] [info] Server loaded. Entering simulation...
+[2019-12-21 22:20:25] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 22:20:26] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:28:07] [info] Detected CTRL+C, shutting down...
+[2019-12-21 22:28:08] [info] MariaDB: Unloading plugin...
+[2019-12-21 22:28:08] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 22:28:09] [info] Windows Server is starting
+[2019-12-21 22:28:09] [info] Detected 8 logical processors
+[2019-12-21 22:28:09] [info] Loaded 21 weapons from config
+[2019-12-21 22:28:09] [info] Loading plugin "mariadb"
+[2019-12-21 22:28:09] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 22:28:09] [info] Loading plugin "ini-plugin"
+[2019-12-21 22:28:09] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 22:28:09] [info] Starting package "default"
+[2019-12-21 22:28:09] [script] Door Count: 567
+[2019-12-21 22:28:09] [info] Starting package "projectr"
+[2019-12-21 22:28:09] [info] Starting package "sandbox"
+[2019-12-21 22:28:09] [script] Server: Attempting to load world.
+[2019-12-21 22:28:09] [script] Server: World loaded!
+[2019-12-21 22:28:09] [info] Package load done, clients will download 108 files with a total of 1473 KB
+[2019-12-21 22:28:09] [info] Max players set to 100
+[2019-12-21 22:28:09] [info] VoIP systems activated at 24000hz
+[2019-12-21 22:28:09] [info] Listening on 127.0.0.1
+[2019-12-21 22:28:09] [info] Open port channels:
+[2019-12-21 22:28:09] [info] 	UDP 7777 (game)
+[2019-12-21 22:28:09] [info] 	UDP 7776 (query)
+[2019-12-21 22:28:09] [info] 	TCP 7775 (file)
+[2019-12-21 22:28:09] [info] Server loaded. Entering simulation...
+[2019-12-21 22:28:11] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 22:28:11] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:32:07] [info] Detected CTRL+C, shutting down...
+[2019-12-21 22:32:07] [info] MariaDB: Unloading plugin...
+[2019-12-21 22:32:07] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 22:32:08] [info] Windows Server is starting
+[2019-12-21 22:32:08] [info] Detected 8 logical processors
+[2019-12-21 22:32:08] [info] Loaded 21 weapons from config
+[2019-12-21 22:32:08] [info] Loading plugin "mariadb"
+[2019-12-21 22:32:08] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 22:32:08] [info] Loading plugin "ini-plugin"
+[2019-12-21 22:32:08] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 22:32:08] [info] Starting package "default"
+[2019-12-21 22:32:08] [script] Door Count: 567
+[2019-12-21 22:32:08] [info] Starting package "projectr"
+[2019-12-21 22:32:08] [info] Starting package "sandbox"
+[2019-12-21 22:32:08] [script] Server: Attempting to load world.
+[2019-12-21 22:32:08] [script] Server: World loaded!
+[2019-12-21 22:32:08] [info] Package load done, clients will download 108 files with a total of 1473 KB
+[2019-12-21 22:32:08] [info] Max players set to 100
+[2019-12-21 22:32:08] [info] VoIP systems activated at 24000hz
+[2019-12-21 22:32:08] [info] Listening on 127.0.0.1
+[2019-12-21 22:32:08] [info] Open port channels:
+[2019-12-21 22:32:08] [info] 	UDP 7777 (game)
+[2019-12-21 22:32:08] [info] 	UDP 7776 (query)
+[2019-12-21 22:32:08] [info] 	TCP 7775 (file)
+[2019-12-21 22:32:08] [info] Server loaded. Entering simulation...
+[2019-12-21 22:32:10] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 22:32:11] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:33:42] [info] Detected CTRL+C, shutting down...
+[2019-12-21 22:33:43] [info] MariaDB: Unloading plugin...
+[2019-12-21 22:33:43] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 22:33:44] [info] Windows Server is starting
+[2019-12-21 22:33:44] [info] Detected 8 logical processors
+[2019-12-21 22:33:44] [info] Loaded 21 weapons from config
+[2019-12-21 22:33:44] [info] Loading plugin "mariadb"
+[2019-12-21 22:33:44] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 22:33:44] [info] Loading plugin "ini-plugin"
+[2019-12-21 22:33:44] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 22:33:44] [info] Starting package "default"
+[2019-12-21 22:33:44] [script] Door Count: 567
+[2019-12-21 22:33:44] [info] Starting package "projectr"
+[2019-12-21 22:33:44] [info] Starting package "sandbox"
+[2019-12-21 22:33:44] [script] Server: Attempting to load world.
+[2019-12-21 22:33:44] [script] Server: World loaded!
+[2019-12-21 22:33:44] [info] Package load done, clients will download 108 files with a total of 1473 KB
+[2019-12-21 22:33:44] [info] Max players set to 100
+[2019-12-21 22:33:44] [info] VoIP systems activated at 24000hz
+[2019-12-21 22:33:44] [info] Listening on 127.0.0.1
+[2019-12-21 22:33:44] [info] Open port channels:
+[2019-12-21 22:33:44] [info] 	UDP 7777 (game)
+[2019-12-21 22:33:44] [info] 	UDP 7776 (query)
+[2019-12-21 22:33:44] [info] 	TCP 7775 (file)
+[2019-12-21 22:33:44] [info] Server loaded. Entering simulation...
+[2019-12-21 22:33:46] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 22:33:46] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:44:47] [info] Detected CTRL+C, shutting down...
+[2019-12-21 22:44:48] [info] MariaDB: Unloading plugin...
+[2019-12-21 22:44:48] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 22:44:49] [info] Windows Server is starting
+[2019-12-21 22:44:49] [info] Detected 8 logical processors
+[2019-12-21 22:44:49] [info] Loaded 21 weapons from config
+[2019-12-21 22:44:49] [info] Loading plugin "mariadb"
+[2019-12-21 22:44:49] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 22:44:49] [info] Loading plugin "ini-plugin"
+[2019-12-21 22:44:49] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 22:44:49] [info] Starting package "default"
+[2019-12-21 22:44:49] [script] Door Count: 567
+[2019-12-21 22:44:49] [info] Starting package "projectr"
+[2019-12-21 22:44:49] [info] Starting package "sandbox"
+[2019-12-21 22:44:50] [script] Server: Attempting to load world.
+[2019-12-21 22:44:50] [script] Server: World loaded!
+[2019-12-21 22:44:50] [info] Package load done, clients will download 108 files with a total of 1477 KB
+[2019-12-21 22:44:50] [info] Max players set to 100
+[2019-12-21 22:44:50] [info] VoIP systems activated at 24000hz
+[2019-12-21 22:44:50] [info] Listening on 127.0.0.1
+[2019-12-21 22:44:50] [info] Open port channels:
+[2019-12-21 22:44:50] [info] 	UDP 7777 (game)
+[2019-12-21 22:44:50] [info] 	UDP 7776 (query)
+[2019-12-21 22:44:50] [info] 	TCP 7775 (file)
+[2019-12-21 22:44:50] [info] Server loaded. Entering simulation...
+[2019-12-21 22:44:52] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 22:44:52] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:46:32] [info] Detected CTRL+C, shutting down...
+[2019-12-21 22:46:32] [info] MariaDB: Unloading plugin...
+[2019-12-21 22:46:32] [info] MariaDB: Plugin unloaded.
+
+[2019-12-21 22:46:33] [info] Windows Server is starting
+[2019-12-21 22:46:33] [info] Detected 8 logical processors
+[2019-12-21 22:46:33] [info] Loaded 21 weapons from config
+[2019-12-21 22:46:33] [info] Loading plugin "mariadb"
+[2019-12-21 22:46:33] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-21 22:46:33] [info] Loading plugin "ini-plugin"
+[2019-12-21 22:46:33] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-21 22:46:33] [info] Starting package "default"
+[2019-12-21 22:46:33] [script] Door Count: 567
+[2019-12-21 22:46:33] [info] Starting package "projectr"
+[2019-12-21 22:46:33] [info] Starting package "sandbox"
+[2019-12-21 22:46:33] [script] Server: Attempting to load world.
+[2019-12-21 22:46:33] [script] Server: World loaded!
+[2019-12-21 22:46:33] [info] Package load done, clients will download 108 files with a total of 1477 KB
+[2019-12-21 22:46:33] [info] Max players set to 100
+[2019-12-21 22:46:33] [info] VoIP systems activated at 24000hz
+[2019-12-21 22:46:33] [info] Listening on 127.0.0.1
+[2019-12-21 22:46:33] [info] Open port channels:
+[2019-12-21 22:46:33] [info] 	UDP 7777 (game)
+[2019-12-21 22:46:33] [info] 	UDP 7776 (query)
+[2019-12-21 22:46:33] [info] 	TCP 7775 (file)
+[2019-12-21 22:46:33] [info] Server loaded. Entering simulation...
+[2019-12-21 22:46:35] [info] Client requesting connection 127.0.0.1:52812
+[2019-12-21 22:46:36] [info] Player (ID 1) joining the game (127.0.0.1:52812)
+[2019-12-21 22:52:29] [info] Player (ID 1) disconnected (127.0.0.1:52812)
+[2019-12-22 00:46:32] [info] Detected CTRL+C, shutting down...
+[2019-12-22 00:46:32] [info] MariaDB: Unloading plugin...
+[2019-12-22 00:46:32] [info] MariaDB: Plugin unloaded.
+
+[2019-12-22 00:47:03] [info] Windows Server is starting
+[2019-12-22 00:47:03] [info] Detected 8 logical processors
+[2019-12-22 00:47:03] [info] Loaded 21 weapons from config
+[2019-12-22 00:47:03] [info] Loading plugin "mariadb"
+[2019-12-22 00:47:03] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-22 00:47:03] [info] Loading plugin "ini-plugin"
+[2019-12-22 00:47:03] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-22 00:47:03] [info] Starting package "default"
+[2019-12-22 00:47:03] [script] Door Count: 567
+[2019-12-22 00:47:03] [info] Starting package "projectr"
+[2019-12-22 00:47:03] [info] Starting package "sandbox"
+[2019-12-22 00:47:03] [script] Server: Attempting to load world.
+[2019-12-22 00:47:03] [script] Server: World loaded!
+[2019-12-22 00:47:03] [info] Package load done, clients will download 109 files with a total of 1477 KB
+[2019-12-22 00:47:03] [info] Max players set to 100
+[2019-12-22 00:47:03] [info] VoIP systems activated at 24000hz
+[2019-12-22 00:47:03] [info] Listening on 127.0.0.1
+[2019-12-22 00:47:03] [info] Open port channels:
+[2019-12-22 00:47:03] [info] 	UDP 7777 (game)
+[2019-12-22 00:47:03] [info] 	UDP 7776 (query)
+[2019-12-22 00:47:03] [info] 	TCP 7775 (file)
+[2019-12-22 00:47:03] [info] Server loaded. Entering simulation...
+[2019-12-22 00:47:29] [info] Client requesting connection 127.0.0.1:51326
+[2019-12-22 00:47:29] [info] Player (ID 1) joining the game (127.0.0.1:51326)
+[2019-12-22 00:48:56] [info] Player (ID 1) disconnected (127.0.0.1:51326)
+[2019-12-22 00:48:57] [info] MariaDB: Unloading plugin...
+[2019-12-22 00:48:57] [info] MariaDB: Plugin unloaded.
