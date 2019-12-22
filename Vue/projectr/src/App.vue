@@ -1,32 +1,33 @@
 <template>
   <div id="app">
-    <charaCustom v-show="showCharaCustom"></charaCustom>
-    <div>yolo yolo yolo</div>
+    <charaCustom v-show="$root.showCharaCustom"/>
   </div>
 </template>
 
 <script>
-import charaCustom from './components/charaCustom.vue'
+import charaCustom from "./components/charaCustom/charaCustom.vue";
 
 export default {
-  name: 'app',
+  name: "app",
   components: {
     charaCustom
   },
-  data(){
-    return{
-      showCharaCustom: true
-    }
+  data() {
+    return {};
   }
-}
+};
 </script>
 
 <style>
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
+  user-select: none;
+  cursor: default;
 }
-*, *:before, *:after {
-    box-sizing: inherit;
-    margin: 0px;
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0px;
 }
 </style>
