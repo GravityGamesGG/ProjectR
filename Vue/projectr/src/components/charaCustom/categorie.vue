@@ -21,13 +21,16 @@ export default {
   },
   methods: {
     catclic() {
+      //Affiche ou cache le contenu de la categorie clickée
       this.show = !this.show;
     },
     elName(el){
+      //Renvoie juste le nom de l'asset sans le chemin
       let arr = el.split("/");
       return arr[arr.length-1]
     },
     clickedItem(el){
+      //Envoie l'event au clic d'un element avec le nom de la categorie et le chemin de l'asset à charger
       window.ue.game.callevent("charaCustom", JSON.stringify([this.catName.toLowerCase(), el]));
     }
   }

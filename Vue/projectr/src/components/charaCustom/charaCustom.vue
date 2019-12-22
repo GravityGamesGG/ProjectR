@@ -10,9 +10,12 @@ import categorie from "./categorie";
 
 //Import des data pour chaque partie du corp
 import corpData from "./data/corp";
-import teteData from "./data/tete";
-import torseData from "./data/torse";
-import chaussureData from "./data/chaussure";
+import cheveuxData from "./data/cheveux";
+import accessoireData from "./data/accessoire";
+import torseUpData from "./data/torseUp";
+import torseDownData from "./data/torseDown";
+import jambeData from "./data/jambe";
+import chaussureData from "./data/pied";
 
 let customData = [
   {
@@ -20,12 +23,24 @@ let customData = [
     data: corpData
   },
   {
-    name: "Tête",
-    data: teteData
+    name: "Cheveux",
+    data: cheveuxData
   },
   {
-    name: "Torse",
-    data: torseData
+    name: "Accessoire",
+    data: accessoireData
+  },
+  {
+    name: "TorseUp",
+    data: torseUpData
+  },
+  {
+    name: "TorseDown",
+    data: torseDownData
+  },
+  {
+    name: "Jambe",
+    data: jambeData
   },
   {
     name: "Pied",

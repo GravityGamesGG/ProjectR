@@ -1,3 +1,3 @@
 AddEvent("OnPackageStart", function()
-    inputmode = INPUT_GAME
+    freeMouse = false
 end)
