@@ -4150,3 +4150,6 @@
 [2019-12-19 12:49:16] [info] Client requesting connection 127.0.0.1:53739
 [2019-12-19 12:49:16] [info] Player (ID 1) joining the game (127.0.0.1:53739)
 [2019-12-19 12:58:50] [info] Player (ID 1) disconnected (127.0.0.1:53739)
+[2019-12-19 18:56:16] [info] Detected CTRL+C, shutting down...
+[2019-12-19 18:56:16] [info] MariaDB: Unloading plugin...
+[2019-12-19 18:56:16] [info] MariaDB: Plugin unloaded.
