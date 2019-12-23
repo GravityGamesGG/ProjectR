@@ -1,9 +1,5 @@
-AddEvent("OnScriptError", function(message)
-    AddPlayerChat('<span color="#ff0000bb" style="bold" size="20">' .. message .. '</>')
-end)
 
-AddEvent("OnPackageStart", function()
-    ShowWeaponHUD(false)
-    ShowHealthHUD(false)
-end)
 
+
+
+CreateSound3D("http://us4.internet-radio.com:8258/listen.pls", 125773.000000, 80446.000000, 1645.000000, 1000.0)

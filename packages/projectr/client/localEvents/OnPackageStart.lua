@@ -1,3 +1,4 @@
 AddEvent("OnPackageStart", function()
-    freeMouse = false
+    ShowWeaponHUD(false)
+ShowHealthHUD(false)
 end)

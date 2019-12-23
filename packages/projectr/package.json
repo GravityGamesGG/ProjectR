@@ -3,12 +3,15 @@
 	"version": "1.0",
 	"server_scripts": [
 		"server/init.lua",
+		"server/utils.lua",
 		"server/localEvents/OnPlayerJoin.lua",
 		"server/commands/test.lua",
-		"server/commands/vehicle.lua"
+		"server/commands/vehicle.lua",
+		"server/localEvents/OnPackageStart.lua"
 	],
 	"client_scripts": [
 		"client/init.lua",
+		"client/utils.lua",
 		"client/localEvents/OnGameTick.lua",
 		"client/localEvents/OnPlayerSpawn.lua",
 		"client/localEvents/OnCollisionEnter.lua",
@@ -16,7 +19,8 @@
 		"client/localEvents/OnKeyPress.lua",
 		"client/collision/marketDrink.lua",
 		"client/uiEvents/charaCustom/charaCustomEvent.lua",
-		"client/localEvents/OnPackageStart.lua"
+		"client/localEvents/OnPackageStart.lua",
+		"client/localEvents/OnScriptError.lua"
 	],
 	"files": [
 		"client/html/index.html",
