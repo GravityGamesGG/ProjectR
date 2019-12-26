@@ -1,6 +1,6 @@
 <template>
   <div class="charaCustomContainer">
-    <categorie :key="cat" v-for="cat in customData" :catName="cat.name" :catData="cat.data"/>
+    <categorie :key="cat.name" v-for="cat in customData" :catName="cat.name" :catData="cat.data" @onItemClicked="itemClicked"/>
   </div>
 </template>
 
@@ -18,36 +18,14 @@ import jambeData from "./data/jambe";
 import chaussureData from "./data/pied";
 
 let customData = [
-  {
-    name: "Corp",
-    data: corpData
-  },
-  {
-    name: "Cheveux",
-    data: cheveuxData
-  },
-  {
-    name: "Accessoire",
-    data: accessoireData
-  },
-  {
-    name: "TorseUp",
-    data: torseUpData
-  },
-  {
-    name: "TorseDown",
-    data: torseDownData
-  },
-  {
-    name: "Jambe",
-    data: jambeData
-  },
-  {
-    name: "Pied",
-    data: chaussureData
-  }
-];
-
+  corpData,
+  cheveuxData,
+  accessoireData,
+  torseUpData,
+  torseDownData,
+  jambeData,
+  chaussureData
+]
 
 export default {
   name: "charaCustom",
@@ -57,10 +35,49 @@ export default {
   props: {},
   data() {
     return {
-      customData
-    };
+      customData,
+      slots:[
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  methods:{
+    itemClicked(el){
+      this.slots.forEach(slot => {
+        if(slot == null) return
+        if(slot.occupationSlot.includes(el.slot) || el.occupationSlot.includes(slot.slot)){
+          if(slot.slot == 6){
+            slot = corpData.default
+          }else{
+            slot = null
+          }
+        }
+      });
+      this.slots[el.occupationSlot[0]] = el;
+
+      // eslint-disable-next-line
+      console.log(this.slots)
+
+      let eventData = []
+      this.slots.forEach(slot => {
+        if(slot){
+          eventData.push(slot.asset)
+        }else{
+          eventData.push(null)
+        }
+      })
+
+      
+      //window.ue.game.callevent("charaCustom", JSON.stringify(eventData));
+    }
   }
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->

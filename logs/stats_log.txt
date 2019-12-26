@@ -69,3 +69,6 @@
 [2019-12-22 21:23:29] [AppID 1105810] CAPIJobStoreUserStats::BInit() - no stats found, aborting
 [2019-12-22 21:30:40] [AppID 1105810] CAPIJobStoreUserStats::BInit() - no stats found, aborting
 [2019-12-22 21:39:25] [AppID 1105810] CAPIJobStoreUserStats::BInit() - no stats found, aborting
+
+
+[2019-12-24 12:18:55] [AppID 1105810] CAPIJobStoreUserStats::BInit() - no stats found, aborting

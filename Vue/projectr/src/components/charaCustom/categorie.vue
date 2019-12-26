@@ -2,7 +2,7 @@
   <div class="catContainer">
     <div :class="{catHeaderSelected: show, catHeader: !show}" @click="catclic()">{{catName}}</div>
     <div class="catContent" v-if="show">
-      <div class="catItem" :key="el" v-for="el in catData" @click="clickedItem(el)">{{elName(el)}}</div>
+      <div class="catItem" :key="el.name" v-for="el in catData" @click="$emit('onItemClicked', el)">{{elName(el)}}</div>
     </div>
   </div>
 </template>
@@ -17,7 +17,7 @@ export default {
   data() {
     return {
       show: false
-    };
+    }
   },
   methods: {
     catclic() {
@@ -26,12 +26,8 @@ export default {
     },
     elName(el){
       //Renvoie juste le nom de l'asset sans le chemin
-      let arr = el.split("/");
+      let arr = el.asset.split("/");
       return arr[arr.length-1]
-    },
-    clickedItem(el){
-      //Envoie l'event au clic d'un element avec le nom de la categorie et le chemin de l'asset à charger
-      window.ue.game.callevent("charaCustom", JSON.stringify([this.catName.toLowerCase(), el]));
     }
   }
 }
