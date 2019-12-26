@@ -4,4 +4,6 @@ AddEvent("OnPlayerSpawn", function()
     SetWebAlignment(webui, 0.0, 0.0)
     SetWebAnchors(webui, 0.0, 0.0, 1.0, 1.0)
     SetWebVisibility(webui, WEB_VISIBLE)
+
+    SetPlayerClothingPreset(GetPlayerId(), 7)
 end)

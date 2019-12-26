@@ -4,20 +4,26 @@
 	"server_scripts": [
 		"server/init.lua",
 		"server/utils.lua",
+		"server/json.lua",
 		"server/localEvents/OnPlayerJoin.lua",
 		"server/commands/test.lua",
 		"server/commands/vehicle.lua",
-		"server/localEvents/OnPackageStart.lua"
+		"server/localEvents/OnPackageStart.lua",
+		"server/localEvents/OnNPCStreamIn.lua",
+		"server/clientEvents/OnInteractNPC.lua"
 	],
 	"client_scripts": [
 		"client/init.lua",
 		"client/utils.lua",
+		"client/json.lua",
 		"client/localEvents/OnGameTick.lua",
 		"client/localEvents/OnPlayerSpawn.lua",
 		"client/localEvents/OnCollisionEnter.lua",
+		"client/localEvents/OnCancelDialogNPC.lua",
 		"client/serverEvents/test.lua",
+		"client/serverEvents/dialogNPC.lua",
+		"client/serverEvents/setupNPC.lua",
 		"client/localEvents/OnKeyPress.lua",
-		"client/collision/marketDrink.lua",
 		"client/uiEvents/charaCustom/charaCustomEvent.lua",
 		"client/localEvents/OnPackageStart.lua",
 		"client/localEvents/OnScriptError.lua"

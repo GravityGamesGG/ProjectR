@@ -1,5 +1,4 @@
 --[[
-	-1 => tout
 	Clothing0 => Cheveux
 	Clothing1 => Torse(Dessous)
 	Clothing2 => Torse(Dessus)
@@ -57,7 +56,4 @@ AddEvent("charaCustom", function (clothing0, clothing1, clothing2, clothing3, cl
 	else
 		SkeletalMeshComponent:SetSkeletalMesh(nil)
 	end
-
-
-	
 end )

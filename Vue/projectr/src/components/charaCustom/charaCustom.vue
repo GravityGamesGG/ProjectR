@@ -84,7 +84,6 @@ export default {
           eventData.push(false)
         }
       })
-      window.console.log(eventData)
       
       window.ue.game.callevent("charaCustom", JSON.stringify(eventData));
     }
