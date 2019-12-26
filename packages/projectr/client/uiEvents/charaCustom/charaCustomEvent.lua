@@ -8,16 +8,56 @@
 	Clothing5 => Pieds
 ]]
 AddEvent("charaCustom", function (clothing0, clothing1, clothing2, clothing3, clothing4, clothing5, body)
-	AddPlayerChat(clothing0)
-	AddPlayerChat(clothing1)
-	AddPlayerChat(clothing2)
-	AddPlayerChat(clothing3)
-	AddPlayerChat(clothing4)
-	AddPlayerChat(clothing5)
 
-    local SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Body")
-	SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(body))
+	local SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing0")
+	if clothing0 then
+		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(clothing0))
+	else
+		SkeletalMeshComponent:SetSkeletalMesh(nil)
+	end
 
-	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing0")
-	SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(asset))
+	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing1")
+	if clothing1 then
+		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(clothing1))
+	else
+		SkeletalMeshComponent:SetSkeletalMesh(nil)
+	end
+
+	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing2")
+	if clothing2 then
+		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(clothing2))
+	else
+		SkeletalMeshComponent:SetSkeletalMesh(nil)
+	end
+
+	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing3")
+	if clothing3 then
+		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(clothing3))
+	else
+		SkeletalMeshComponent:SetSkeletalMesh(nil)
+	end
+
+	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing4")
+	if clothing4 then
+		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(clothing4))
+	else
+		SkeletalMeshComponent:SetSkeletalMesh(nil)
+	end
+
+	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing5")
+	if clothing5 then
+		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(clothing5))
+	else
+		SkeletalMeshComponent:SetSkeletalMesh(nil)
+	end
+
+	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Body")
+	if body then
+		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(body))
+	else
+		SkeletalMeshComponent:SetSkeletalMesh(nil)
+	end
+
+
+	
 end )

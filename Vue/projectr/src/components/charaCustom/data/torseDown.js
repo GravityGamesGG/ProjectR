@@ -13,27 +13,27 @@ let torseDown = {
     data: [
         {
             asset: "/Game/CharacterModels/SkeletalMesh/Outfits/HZN_Outfit_Piece_TShirt_Knitted2_LPR",
-            occupationSlot: [1]
+            occupationSlot: [1, 2]
         },
         {
             asset: "/Game/CharacterModels/SkeletalMesh/Outfits/HZN_Outfit_Piece_TShirt_Knitted_LPR",
-            occupationSlot: [1]
+            occupationSlot: [1, 2]
         },
         {
             asset: "/Game/CharacterModels/SkeletalMesh/Outfits/HZN_Outfit_Piece_TShirt_LPR",
-            occupationSlot: [1]
+            occupationSlot: [1, 2]
         },
         {
             asset: "/Game/CharacterModels/Clothing/Meshes/SK_TShirt01",
-            occupationSlot: [1]
+            occupationSlot: [1, 2]
         },
         {
             asset: "/Game/CharacterModels/Clothing/Meshes/SK_TShirtShorts01",
-            occupationSlot: [1, 4]
+            occupationSlot: [1, 4, 2]
         },
         {
             asset: "/Game/CharacterModels/Clothing/Meshes/SK_Undershirt01",
-            occupationSlot: [1]
+            occupationSlot: [1, 2]
         }
     ]
 }

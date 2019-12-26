@@ -16,11 +16,11 @@ let corp = {
     data: [
         {
             asset: "/Game/CharacterModels/Alien/Meshes/SK_Alien01",
-            occupationSlot: [6, 0, 1, 2, 3, 4, 5]
+            occupationSlot: [6, 0, 3]
         },
         {
             asset: "/Game/CharacterModels/Alien/Meshes/SK_Alien02",
-            occupationSlot: [6, 0, 1, 2, 3, 4, 5]
+            occupationSlot: [6, 0, 3]
         },
         {
             asset: "/Game/CharacterModels/Military/Meshes/SK_SpecialForces01",

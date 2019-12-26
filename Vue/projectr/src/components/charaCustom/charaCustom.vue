@@ -37,44 +37,56 @@ export default {
     return {
       customData,
       slots:[
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null
+        null,//Cheveux
+        null,//Torse dessous
+        null,//Torse dessus
+        null,//Accessoire
+        null,//Jambe
+        null,//Pied
+        null//Corp
       ]
     }
   },
   methods:{
     itemClicked(el){
+      //pour chaque slot deja present
       this.slots.forEach(slot => {
+        
         if(slot == null) return
-        if(slot.occupationSlot.includes(el.slot) || el.occupationSlot.includes(slot.slot)){
-          if(slot.slot == 6){
-            slot = corpData.default
+        
+        //Si l'occupation du slot actuel comprend l'element qu'on veut rajouter
+        if(slot.occupationSlot.includes(el.occupationSlot[0])){
+          //Si le slot actuel est un corp
+          if(slot.occupationSlot[0] == 6){
+            //On definit le slot actuel avec corp par defaut
+            this.slots[slot.occupationSlot[0]] = corpData.default
           }else{
-            slot = null
+            //On supprime le slot actuel car le nouvel element prendra sa place
+            this.slots[slot.occupationSlot[0]] = null
           }
         }
-      });
-      this.slots[el.occupationSlot[0]] = el;
+      })
 
-      // eslint-disable-next-line
-      console.log(this.slots)
+      //On supprime tout les slot que le nouvel element va occuper
+      el.occupationSlot.forEach(occuSlot => {
+        this.slots[occuSlot] = null
+      })
 
+      //On assigne le nouvel element à un slot
+      this.slots[el.occupationSlot[0]] = el
+
+      //Tableau à envoyer à l'event lua
       let eventData = []
       this.slots.forEach(slot => {
         if(slot){
           eventData.push(slot.asset)
         }else{
-          eventData.push(null)
+          eventData.push(false)
         }
       })
-
+      window.console.log(eventData)
       
-      //window.ue.game.callevent("charaCustom", JSON.stringify(eventData));
+      window.ue.game.callevent("charaCustom", JSON.stringify(eventData));
     }
   }
 }
@@ -83,8 +95,10 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 .charaCustomContainer {
+  position: absolute;
+  top: 30px;
+  right: 30px;
   width: 20vw;
-  margin: 30px;
   height: calc(100vh - 60px);
 
   display: flex;
