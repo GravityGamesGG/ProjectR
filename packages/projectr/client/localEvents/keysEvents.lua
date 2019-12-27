@@ -1,3 +1,5 @@
+local utils = ImportPackage("utils")
+
 AddEvent("OnKeyPress", function(key)
     --AddPlayerChat(key)
     if key == "G" then
@@ -5,12 +7,12 @@ AddEvent("OnKeyPress", function(key)
     end
 
     if key == "E" then
-        local npcId = GetNearestNPC()
-        if(GetNearestNPC()) then CallRemoteEvent("OnInteractNPC", npcId) end
+        local npcId = utils.GetNearestNPC()
+        if npcId then CallRemoteEvent("OnInteractNPC", npcId) end
     end
 
     if key == "Middle Mouse Button" then
-        CallEvent("OnCancelDialogNPC")
+        CallEvent("OnCancelDialogNPC", webui)
     end
 
     if key == "Tab" then

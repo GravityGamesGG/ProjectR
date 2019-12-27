@@ -3,25 +3,21 @@
 	"version": "1.0",
 	"server_scripts": [
 		"server/init.lua",
-		"server/utils.lua",
-		"server/json.lua",
-		"server/commands/test.lua",
 		"server/commands/vehicle.lua",
-		"server/localEvents/OnPlayerJoin.lua",
+		"server/localEvents/playerEvents.lua",
 		"server/localEvents/OnPackageStart.lua",
-		"server/localEvents/OnNPCStreamIn.lua",
+		"server/localEvents/npcEvents.lua",
 		"server/clientEvents/OnInteractNPC.lua"
 	],
 	"client_scripts": [
 		"client/init.lua",
 		"client/utils.lua",
-		"client/json.lua",
-		"client/localEvents/OnGameTick.lua",
-		"client/localEvents/OnPlayerSpawn.lua",
-		"client/localEvents/OnPackageStart.lua",
-		"client/localEvents/OnScriptError.lua",
-		"client/localEvents/OnKeyPress.lua",
-		"client/serverEvents/setupNPC.lua"
+		"client/localEvents/gameEvents.lua",
+		"client/localEvents/keysEvents.lua",
+		"client/localEvents/playerEvents.lua",
+		"client/localEvents/miscEvents.lua",
+		"client/serverEvents/setupNPC.lua",
+		"client/uiEvents/uiEvents.lua"
 	],
 	"files": [
 		"client/html/index.html",

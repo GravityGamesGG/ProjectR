@@ -1,4 +1,4 @@
-local function createDialogNPC()
+AddEvent("OnPackageStart", function()
     local npcId = CreateNPC(126773.000000, 79046.000000, 1572.500000,
     90.0)
     print(npcId)
@@ -13,9 +13,5 @@ local function createDialogNPC()
     dialogNPC[npcId].h = 90.0
 
     SetNPCAnimation(npcId, "CALLME", true)
-end
-
-AddEvent("OnPackageStart", function()
-    createDialogNPC()
 end)
 

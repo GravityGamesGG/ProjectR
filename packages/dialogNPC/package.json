@@ -5,7 +5,7 @@
 	],
 	"client_scripts": [
 		"localEvents/OnCancelDialogNPC.lua",
-		"serverEvents/dialogNPC.lua"
+		"serverEvents/OnDialogNPC.lua"
 	],
 	"files": [
 	]

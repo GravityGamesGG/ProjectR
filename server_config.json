@@ -19,6 +19,7 @@
 		"default",
 		"camera",
 		"utils",
+		"json",
 		"projectr",
 		"dialogNPC",
 		"charaCrea"

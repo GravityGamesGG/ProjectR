@@ -4,7 +4,7 @@
 	"server_scripts": [
 	],
 	"client_scripts": [
-		"localEvents/charaCustom.lua"
+		"client.lua"
 	],
 	"files": [
 	]

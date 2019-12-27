@@ -1,16 +1,19 @@
 <template>
   <div id="app">
-    <charaCustom v-show="$root.showCharaCustom"/>
+    <charaCustom v-show="$root.renderCharaCustom"/>
+    <dialogNPC v-show="$root.renderDialogNPC" :npc="$root.npc"/>
   </div>
 </template>
 
 <script>
-import charaCustom from "./components/charaCustom/charaCustom.vue";
+import charaCustom from "./components/charaCustom/charaCustom.vue"
+import dialogNPC from "./components/dialogNPC/dialogNPC.vue"
 
 export default {
   name: "app",
   components: {
-    charaCustom
+    charaCustom,
+    dialogNPC
   },
   data() {
     return {};
