@@ -1312,3 +1312,9 @@
 
 
 [2019-12-27 12:37:26] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-27 12:48:54] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".
+
+
+[2019-12-27 12:50:36] Loaded 1 apps from install folder "C:\Users\Johny\Documents\DEV\Onset\server\steamapps\appmanifest_*.acf".

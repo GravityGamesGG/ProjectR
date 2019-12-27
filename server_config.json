@@ -1,10 +1,11 @@
 {
-	"servername": "ProjectR",
-	"gamemode": "Roleplay/Survie/Narration",
-	"website_url": "GravityGames.gg",
+	"servername": "Onset Server",
+	"servername_short": "Onset Server",
+	"gamemode": "do what you want",
+	"website_url": "https://bluemountains.io",
 	"ipaddress": "127.0.0.1",
 	"port": 7777,
-	"maxplayers": 300,
+	"maxplayers": 100,
 	"password": "",
 	"timeout": 15000,
 	"iplimit": 5,
@@ -14,14 +15,15 @@
 		"ini-plugin"
 	],
 	"packages": [
+		"packagemanager",
 		"default",
 		"camera",
 		"utils",
 		"projectr",
-		"charaCrea",
-		"dialogNPC"
+		"dialogNPC",
+		"charaCrea"
 	],
-	"stream_distance": 30000.0,
+	"stream_distance": 12000.0,
 	"stream_update_rate": 0.05,
 	"voice": true,
 	"voice_sample_rate": 24000,
