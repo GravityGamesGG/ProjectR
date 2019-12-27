@@ -1,5 +1,4 @@
 AddEvent("OnPackageStart", function()
-    AddPlayerChat("Package started")
     ShowWeaponHUD(false)
     ShowHealthHUD(false)
 end)

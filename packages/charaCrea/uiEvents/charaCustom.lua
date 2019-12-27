@@ -6,7 +6,7 @@
 	Clothing4 => Jambes
 	Clothing5 => Pieds
 ]]
-AddEvent("charaCustom", function (clothing0, clothing1, clothing2, clothing3, clothing4, clothing5, body)
+AddEvent("ui:charaCustom", function (clothing0, clothing1, clothing2, clothing3, clothing4, clothing5, body)
 
 	local SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing0")
 	if clothing0 then

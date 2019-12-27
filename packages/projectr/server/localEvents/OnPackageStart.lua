@@ -12,7 +12,7 @@ local function createDialogNPC()
     dialogNPC[npcId].z = 1572.500000
     dialogNPC[npcId].h = 90.0
 
-    --SetNPCAnimation(npcId, "CROSSARMS", true)
+    SetNPCAnimation(npcId, "CALLME", true)
 end
 
 AddEvent("OnPackageStart", function()

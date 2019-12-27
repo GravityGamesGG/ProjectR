@@ -85,7 +85,7 @@ export default {
         }
       })
       
-      window.ue.game.callevent("charaCustom", JSON.stringify(eventData));
+      window.ue.game.callevent("ui:charaCustom", JSON.stringify(eventData));
     }
   }
 }

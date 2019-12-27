@@ -2,5 +2,9 @@
     "git.ignoreLimitWarning": true,
     "Lua.diagnostics.disable": [
         "undefined-global"
-    ]
+    ],
+    "files.exclude": {
+        "*.dll": true,
+        "*.so": true
+    }
 }

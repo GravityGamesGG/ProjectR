@@ -1,0 +1,12 @@
+{
+	"author": "GravityGames",
+	"version": "1.0",
+	"server_scripts": [
+	],
+	"client_scripts": [
+		"localEvents/OnCancelDialogNPC.lua",
+		"serverEvents/dialogNPC.lua"
+	],
+	"files": [
+	]
+}
