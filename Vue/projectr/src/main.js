@@ -4,11 +4,11 @@ import App from './App.vue'
 Vue.config.productionTip = false
 
 let data = {
-  renderCharaCustom: false,
-  renderDialogNPC: (window.ue) ? false : true,
+  showCharaCustom: false,
+  showDialogNPC: false,
   npc: {
-    name: "test",
-    dialogText: "lol"
+    name: null,
+    dialogText: null
   }
 }
 
@@ -20,9 +20,7 @@ window.vm = new Vue({
     showCharaCustom(b){
       this.renderCharaCustom = b
     },
-    showDialogNPC(npcName, npcdialogText){
-      if(!npcName) return this.renderDialogNPC = false
-      this.renderDialogNPC = true
+    setupDialogNPC(npcName, npcdialogText){
       this.npc.name = npcName
       this.npc.dialogText = npcdialogText
     }

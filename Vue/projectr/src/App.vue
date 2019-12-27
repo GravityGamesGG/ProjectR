@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <charaCustom v-show="$root.renderCharaCustom"/>
-    <dialogNPC v-show="$root.renderDialogNPC" :npc="$root.npc"/>
+    <charaCustom v-show="$root.showCharaCustom"/>
+    <dialogNPC v-show="$root.showDialogNPC" :npc="$root.npc"/>
   </div>
 </template>
 

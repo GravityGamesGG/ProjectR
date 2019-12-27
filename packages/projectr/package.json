@@ -11,7 +11,6 @@
 	],
 	"client_scripts": [
 		"client/init.lua",
-		"client/utils.lua",
 		"client/localEvents/gameEvents.lua",
 		"client/localEvents/keysEvents.lua",
 		"client/localEvents/playerEvents.lua",

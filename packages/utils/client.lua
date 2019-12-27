@@ -22,15 +22,17 @@ function IsPlayerTargeting()
     return targeting;
 end
 
-function GetNearestNPC()
+function GetNearestNPC(distValue)
+    local maxDist = distValue or 100000
+
     local x, y, z = GetPlayerLocation()
-    local nearestNPC = {id=nil, dist=100000}
+    local nearestNPC = {id=nil, dist=maxDist}
 
 	for k,v in pairs(GetStreamedNPC()) do
         local x2, y2, z2 = GetNPCLocation(v)
 
         local dist = GetDistance3D(x, y, z, x2, y2, z2)
-		if dist < nearestNPC.dist then
+		if dist < nearestNPC.dist and dist < maxDist then
             nearestNPC.id = v
             nearestNPC.dist = dist
         end

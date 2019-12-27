@@ -1,5 +1,5 @@
 AddEvent("OnNPCStreamIn", function(npcid, player)
-    if dialogNPC[npcid] then
-        CallRemoteEvent(player, "setupNPC", dialogNPC[npcid])
+    if DialogNPC[npcid] then
+        CallRemoteEvent(player, "setupNPC", DialogNPC[npcid])
     end
 end)

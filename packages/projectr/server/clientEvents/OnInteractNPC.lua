@@ -1,6 +1,12 @@
 AddRemoteEvent("OnInteractNPC", function (player, npcId)
-    local npc = dialogNPC[npcId]
+    local npc = DialogNPC[npcId]
     if npc then
-        CallRemoteEvent(player, "OnDialogNPC", npc)
+        if PlayerData[player].state == PLAYER_STATE_IN_DIALOG then
+            CallRemoteEvent(player, "OnCancelDialogNPC")
+            PlayerData[player].state = PLAYER_STATE_FREE
+        else
+            CallRemoteEvent(player, "OnDialogNPC", npc)
+            PlayerData[player].state = PLAYER_STATE_IN_DIALOG
+        end
     end
-end )
+end)

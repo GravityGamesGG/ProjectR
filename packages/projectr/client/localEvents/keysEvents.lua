@@ -7,12 +7,8 @@ AddEvent("OnKeyPress", function(key)
     end
 
     if key == "E" then
-        local npcId = utils.GetNearestNPC()
+        local npcId = utils.GetNearestNPC(300)
         if npcId then CallRemoteEvent("OnInteractNPC", npcId) end
-    end
-
-    if key == "Middle Mouse Button" then
-        CallEvent("OnCancelDialogNPC", webui)
     end
 
     if key == "Tab" then

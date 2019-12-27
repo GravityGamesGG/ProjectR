@@ -12675,3 +12675,590 @@
 [2019-12-27 17:25:16] [info] Detected CTRL+C, shutting down...
 [2019-12-27 17:25:17] [info] MariaDB: Unloading plugin...
 [2019-12-27 17:25:17] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:33:24] [info] Windows Server is starting
+[2019-12-27 17:33:24] [info] Detected 8 logical processors
+[2019-12-27 17:33:24] [info] Loaded 21 weapons from config
+[2019-12-27 17:33:24] [info] Loading plugin "mariadb"
+[2019-12-27 17:33:24] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:33:24] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:33:24] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:33:24] [info] Starting package "packagemanager"
+[2019-12-27 17:33:24] [info] Starting package "default"
+[2019-12-27 17:33:24] [script] Door Count: 567
+[2019-12-27 17:33:24] [info] Starting package "camera"
+[2019-12-27 17:33:24] [info] Starting package "utils"
+[2019-12-27 17:33:24] [info] Starting package "json"
+[2019-12-27 17:33:24] [info] Starting package "projectr"
+[2019-12-27 17:33:24] [warning] Client script "client/utils.lua" not found in package "projectr"
+[2019-12-27 17:33:24] [script] 1
+[2019-12-27 17:33:24] [info] Starting package "dialogNPC"
+[2019-12-27 17:33:24] [info] Starting package "charaCrea"
+[2019-12-27 17:33:24] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:33:24] [info] Max players set to 100
+[2019-12-27 17:33:24] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:33:24] [info] Listening on 127.0.0.1
+[2019-12-27 17:33:24] [info] Open port channels:
+[2019-12-27 17:33:24] [info] 	UDP 7777 (game)
+[2019-12-27 17:33:24] [info] 	UDP 7776 (query)
+[2019-12-27 17:33:24] [info] 	TCP 7775 (file)
+[2019-12-27 17:33:24] [info] Server loaded. Entering simulation...
+[2019-12-27 17:33:26] [info] Client requesting connection 127.0.0.1:62680
+[2019-12-27 17:33:26] [info] Player (ID 1) joining the game (127.0.0.1:62680)
+[2019-12-27 17:37:22] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:37:22] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:37:22] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:37:40] [info] Windows Server is starting
+[2019-12-27 17:37:40] [info] Detected 8 logical processors
+[2019-12-27 17:37:40] [info] Loaded 21 weapons from config
+[2019-12-27 17:37:40] [info] Loading plugin "mariadb"
+[2019-12-27 17:37:40] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:37:40] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:37:40] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:37:40] [info] Starting package "packagemanager"
+[2019-12-27 17:37:40] [info] Starting package "default"
+[2019-12-27 17:37:40] [script] Door Count: 567
+[2019-12-27 17:37:40] [info] Starting package "camera"
+[2019-12-27 17:37:40] [info] Starting package "utils"
+[2019-12-27 17:37:40] [info] Starting package "json"
+[2019-12-27 17:37:40] [info] Starting package "projectr"
+[2019-12-27 17:37:40] [warning] Client script "client/utils.lua" not found in package "projectr"
+[2019-12-27 17:37:40] [script] 1
+[2019-12-27 17:37:40] [info] Starting package "dialogNPC"
+[2019-12-27 17:37:40] [info] Starting package "charaCrea"
+[2019-12-27 17:37:40] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:37:40] [info] Max players set to 100
+[2019-12-27 17:37:40] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:37:40] [info] Listening on 127.0.0.1
+[2019-12-27 17:37:40] [info] Open port channels:
+[2019-12-27 17:37:40] [info] 	UDP 7777 (game)
+[2019-12-27 17:37:40] [info] 	UDP 7776 (query)
+[2019-12-27 17:37:40] [info] 	TCP 7775 (file)
+[2019-12-27 17:37:40] [info] Server loaded. Entering simulation...
+[2019-12-27 17:37:42] [info] Client requesting connection 127.0.0.1:62680
+[2019-12-27 17:37:43] [info] Player (ID 1) joining the game (127.0.0.1:62680)
+[2019-12-27 17:37:43] [error] [string "projectr/server/localEvents/playerEvents.lua"]:2: attempt to index a nil value (field '?')
+[2019-12-27 17:37:48] [info] Player (ID 1) disconnected (127.0.0.1:62680)
+[2019-12-27 17:37:49] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:37:49] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:37:49] [error] [string "projectr/server/localEvents/playerEvents.lua"]:2: attempt to index a nil value (field '?')
+[2019-12-27 17:40:51] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:40:51] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:40:51] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:40:52] [info] Windows Server is starting
+[2019-12-27 17:40:52] [info] Detected 8 logical processors
+[2019-12-27 17:40:52] [info] Loaded 21 weapons from config
+[2019-12-27 17:40:52] [info] Loading plugin "mariadb"
+[2019-12-27 17:40:52] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:40:52] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:40:52] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:40:52] [info] Starting package "packagemanager"
+[2019-12-27 17:40:52] [info] Starting package "default"
+[2019-12-27 17:40:52] [script] Door Count: 567
+[2019-12-27 17:40:52] [info] Starting package "camera"
+[2019-12-27 17:40:52] [info] Starting package "utils"
+[2019-12-27 17:40:52] [info] Starting package "json"
+[2019-12-27 17:40:52] [info] Starting package "projectr"
+[2019-12-27 17:40:52] [warning] Client script "client/utils.lua" not found in package "projectr"
+[2019-12-27 17:40:52] [script] 1
+[2019-12-27 17:40:52] [info] Starting package "dialogNPC"
+[2019-12-27 17:40:52] [info] Starting package "charaCrea"
+[2019-12-27 17:40:52] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:40:52] [info] Max players set to 100
+[2019-12-27 17:40:52] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:40:52] [info] Listening on 127.0.0.1
+[2019-12-27 17:40:52] [info] Open port channels:
+[2019-12-27 17:40:52] [info] 	UDP 7777 (game)
+[2019-12-27 17:40:52] [info] 	UDP 7776 (query)
+[2019-12-27 17:40:52] [info] 	TCP 7775 (file)
+[2019-12-27 17:40:52] [info] Server loaded. Entering simulation...
+[2019-12-27 17:40:55] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:40:55] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:43:33] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:43:34] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:43:34] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:43:35] [info] Windows Server is starting
+[2019-12-27 17:43:35] [info] Detected 8 logical processors
+[2019-12-27 17:43:35] [info] Loaded 21 weapons from config
+[2019-12-27 17:43:35] [info] Loading plugin "mariadb"
+[2019-12-27 17:43:36] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:43:36] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:43:36] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:43:36] [info] Starting package "packagemanager"
+[2019-12-27 17:43:36] [info] Starting package "default"
+[2019-12-27 17:43:36] [script] Door Count: 567
+[2019-12-27 17:43:36] [info] Starting package "camera"
+[2019-12-27 17:43:36] [info] Starting package "utils"
+[2019-12-27 17:43:36] [info] Starting package "json"
+[2019-12-27 17:43:36] [info] Starting package "projectr"
+[2019-12-27 17:43:36] [warning] Client script "client/utils.lua" not found in package "projectr"
+[2019-12-27 17:43:36] [script] 1
+[2019-12-27 17:43:36] [info] Starting package "dialogNPC"
+[2019-12-27 17:43:36] [info] Starting package "charaCrea"
+[2019-12-27 17:43:36] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:43:36] [info] Max players set to 100
+[2019-12-27 17:43:36] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:43:36] [info] Listening on 127.0.0.1
+[2019-12-27 17:43:36] [info] Open port channels:
+[2019-12-27 17:43:36] [info] 	UDP 7777 (game)
+[2019-12-27 17:43:36] [info] 	UDP 7776 (query)
+[2019-12-27 17:43:36] [info] 	TCP 7775 (file)
+[2019-12-27 17:43:36] [info] Server loaded. Entering simulation...
+[2019-12-27 17:43:37] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:43:38] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:43:40] [script] 2
+[2019-12-27 17:43:43] [script] 2
+[2019-12-27 17:48:22] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:48:22] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:48:22] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:48:23] [info] Windows Server is starting
+[2019-12-27 17:48:23] [info] Detected 8 logical processors
+[2019-12-27 17:48:23] [info] Loaded 21 weapons from config
+[2019-12-27 17:48:23] [info] Loading plugin "mariadb"
+[2019-12-27 17:48:23] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:48:23] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:48:23] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:48:24] [info] Starting package "packagemanager"
+[2019-12-27 17:48:24] [info] Starting package "default"
+[2019-12-27 17:48:24] [script] Door Count: 567
+[2019-12-27 17:48:24] [info] Starting package "camera"
+[2019-12-27 17:48:24] [info] Starting package "utils"
+[2019-12-27 17:48:24] [info] Starting package "json"
+[2019-12-27 17:48:24] [info] Starting package "projectr"
+[2019-12-27 17:48:24] [script] 1
+[2019-12-27 17:48:24] [info] Starting package "dialogNPC"
+[2019-12-27 17:48:24] [info] Starting package "charaCrea"
+[2019-12-27 17:48:24] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:48:24] [info] Max players set to 100
+[2019-12-27 17:48:24] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:48:24] [info] Listening on 127.0.0.1
+[2019-12-27 17:48:24] [info] Open port channels:
+[2019-12-27 17:48:24] [info] 	UDP 7777 (game)
+[2019-12-27 17:48:24] [info] 	UDP 7776 (query)
+[2019-12-27 17:48:24] [info] 	TCP 7775 (file)
+[2019-12-27 17:48:24] [info] Server loaded. Entering simulation...
+[2019-12-27 17:48:25] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:48:25] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:48:28] [script] 2
+[2019-12-27 17:49:54] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:49:54] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:49:54] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:49:56] [info] Windows Server is starting
+[2019-12-27 17:49:56] [info] Detected 8 logical processors
+[2019-12-27 17:49:56] [info] Loaded 21 weapons from config
+[2019-12-27 17:49:56] [info] Loading plugin "mariadb"
+[2019-12-27 17:49:56] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:49:56] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:49:56] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:49:56] [info] Starting package "packagemanager"
+[2019-12-27 17:49:56] [info] Starting package "default"
+[2019-12-27 17:49:56] [script] Door Count: 567
+[2019-12-27 17:49:57] [info] Starting package "camera"
+[2019-12-27 17:49:57] [info] Starting package "utils"
+[2019-12-27 17:49:57] [info] Starting package "json"
+[2019-12-27 17:49:57] [info] Starting package "projectr"
+[2019-12-27 17:49:57] [script] 1
+[2019-12-27 17:49:57] [info] Starting package "dialogNPC"
+[2019-12-27 17:49:57] [info] Starting package "charaCrea"
+[2019-12-27 17:49:57] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:49:57] [info] Max players set to 100
+[2019-12-27 17:49:57] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:49:57] [info] Listening on 127.0.0.1
+[2019-12-27 17:49:57] [info] Open port channels:
+[2019-12-27 17:49:57] [info] 	UDP 7777 (game)
+[2019-12-27 17:49:57] [info] 	UDP 7776 (query)
+[2019-12-27 17:49:57] [info] 	TCP 7775 (file)
+[2019-12-27 17:49:57] [info] Server loaded. Entering simulation...
+[2019-12-27 17:49:58] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:49:58] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:52:36] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:52:36] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:52:36] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:52:58] [info] Windows Server is starting
+[2019-12-27 17:52:58] [info] Detected 8 logical processors
+[2019-12-27 17:52:58] [info] Loaded 21 weapons from config
+[2019-12-27 17:52:58] [info] Loading plugin "mariadb"
+[2019-12-27 17:52:58] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:52:58] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:52:58] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:52:58] [info] Starting package "packagemanager"
+[2019-12-27 17:52:58] [info] Starting package "default"
+[2019-12-27 17:52:58] [script] Door Count: 567
+[2019-12-27 17:52:58] [info] Starting package "camera"
+[2019-12-27 17:52:58] [info] Starting package "utils"
+[2019-12-27 17:52:58] [info] Starting package "json"
+[2019-12-27 17:52:58] [info] Starting package "projectr"
+[2019-12-27 17:52:58] [script] 1
+[2019-12-27 17:52:58] [info] Starting package "dialogNPC"
+[2019-12-27 17:52:58] [info] Starting package "charaCrea"
+[2019-12-27 17:52:58] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:52:58] [info] Max players set to 100
+[2019-12-27 17:52:58] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:52:58] [info] Listening on 127.0.0.1
+[2019-12-27 17:52:58] [info] Open port channels:
+[2019-12-27 17:52:58] [info] 	UDP 7777 (game)
+[2019-12-27 17:52:58] [info] 	UDP 7776 (query)
+[2019-12-27 17:52:58] [info] 	TCP 7775 (file)
+[2019-12-27 17:52:58] [info] Server loaded. Entering simulation...
+[2019-12-27 17:53:01] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:53:01] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:53:04] [script] 1
+[2019-12-27 17:53:06] [script] 2
+[2019-12-27 17:53:41] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:53:41] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:53:41] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:53:43] [info] Windows Server is starting
+[2019-12-27 17:53:43] [info] Detected 8 logical processors
+[2019-12-27 17:53:43] [info] Loaded 21 weapons from config
+[2019-12-27 17:53:43] [info] Loading plugin "mariadb"
+[2019-12-27 17:53:43] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:53:43] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:53:43] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:53:43] [info] Starting package "packagemanager"
+[2019-12-27 17:53:43] [info] Starting package "default"
+[2019-12-27 17:53:43] [script] Door Count: 567
+[2019-12-27 17:53:43] [info] Starting package "camera"
+[2019-12-27 17:53:43] [info] Starting package "utils"
+[2019-12-27 17:53:43] [info] Starting package "json"
+[2019-12-27 17:53:43] [info] Starting package "projectr"
+[2019-12-27 17:53:43] [script] 1
+[2019-12-27 17:53:43] [info] Starting package "dialogNPC"
+[2019-12-27 17:53:43] [info] Starting package "charaCrea"
+[2019-12-27 17:53:43] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:53:43] [info] Max players set to 100
+[2019-12-27 17:53:43] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:53:43] [info] Listening on 127.0.0.1
+[2019-12-27 17:53:43] [info] Open port channels:
+[2019-12-27 17:53:43] [info] 	UDP 7777 (game)
+[2019-12-27 17:53:43] [info] 	UDP 7776 (query)
+[2019-12-27 17:53:43] [info] 	TCP 7775 (file)
+[2019-12-27 17:53:43] [info] Server loaded. Entering simulation...
+[2019-12-27 17:53:50] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:53:50] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:54:21] [script] 2
+[2019-12-27 17:54:24] [script] 1
+[2019-12-27 17:58:53] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:58:53] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:58:53] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:58:54] [info] Windows Server is starting
+[2019-12-27 17:58:54] [info] Detected 8 logical processors
+[2019-12-27 17:58:54] [info] Loaded 21 weapons from config
+[2019-12-27 17:58:54] [info] Loading plugin "mariadb"
+[2019-12-27 17:58:54] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:58:54] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:58:54] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:58:54] [info] Starting package "packagemanager"
+[2019-12-27 17:58:54] [info] Starting package "default"
+[2019-12-27 17:58:54] [script] Door Count: 567
+[2019-12-27 17:58:54] [info] Starting package "camera"
+[2019-12-27 17:58:54] [info] Starting package "utils"
+[2019-12-27 17:58:54] [info] Starting package "json"
+[2019-12-27 17:58:54] [info] Starting package "projectr"
+[2019-12-27 17:58:54] [script] 1
+[2019-12-27 17:58:54] [info] Starting package "dialogNPC"
+[2019-12-27 17:58:54] [info] Starting package "charaCrea"
+[2019-12-27 17:58:54] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:58:54] [info] Max players set to 100
+[2019-12-27 17:58:54] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:58:54] [info] Listening on 127.0.0.1
+[2019-12-27 17:58:54] [info] Open port channels:
+[2019-12-27 17:58:54] [info] 	UDP 7777 (game)
+[2019-12-27 17:58:54] [info] 	UDP 7776 (query)
+[2019-12-27 17:58:54] [info] 	TCP 7775 (file)
+[2019-12-27 17:58:54] [info] Server loaded. Entering simulation...
+[2019-12-27 17:58:56] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:58:56] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 17:59:18] [info] Detected CTRL+C, shutting down...
+[2019-12-27 17:59:18] [info] MariaDB: Unloading plugin...
+[2019-12-27 17:59:18] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 17:59:20] [info] Windows Server is starting
+[2019-12-27 17:59:20] [info] Detected 8 logical processors
+[2019-12-27 17:59:20] [info] Loaded 21 weapons from config
+[2019-12-27 17:59:20] [info] Loading plugin "mariadb"
+[2019-12-27 17:59:20] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 17:59:20] [info] Loading plugin "ini-plugin"
+[2019-12-27 17:59:20] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 17:59:20] [info] Starting package "packagemanager"
+[2019-12-27 17:59:20] [info] Starting package "default"
+[2019-12-27 17:59:20] [script] Door Count: 567
+[2019-12-27 17:59:20] [info] Starting package "camera"
+[2019-12-27 17:59:20] [info] Starting package "utils"
+[2019-12-27 17:59:20] [info] Starting package "json"
+[2019-12-27 17:59:20] [info] Starting package "projectr"
+[2019-12-27 17:59:20] [script] 1
+[2019-12-27 17:59:20] [info] Starting package "dialogNPC"
+[2019-12-27 17:59:20] [info] Starting package "charaCrea"
+[2019-12-27 17:59:20] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 17:59:20] [info] Max players set to 100
+[2019-12-27 17:59:20] [info] VoIP systems activated at 24000hz
+[2019-12-27 17:59:20] [info] Listening on 127.0.0.1
+[2019-12-27 17:59:20] [info] Open port channels:
+[2019-12-27 17:59:20] [info] 	UDP 7777 (game)
+[2019-12-27 17:59:20] [info] 	UDP 7776 (query)
+[2019-12-27 17:59:20] [info] 	TCP 7775 (file)
+[2019-12-27 17:59:20] [info] Server loaded. Entering simulation...
+[2019-12-27 17:59:22] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 17:59:22] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 18:09:12] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:09:12] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:09:12] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:11:07] [info] Windows Server is starting
+[2019-12-27 18:11:07] [info] Detected 8 logical processors
+[2019-12-27 18:11:08] [info] Loaded 21 weapons from config
+[2019-12-27 18:11:08] [info] Loading plugin "mariadb"
+[2019-12-27 18:11:08] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:11:08] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:11:08] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:11:08] [info] Starting package "packagemanager"
+[2019-12-27 18:11:08] [info] Starting package "default"
+[2019-12-27 18:11:08] [script] Door Count: 567
+[2019-12-27 18:11:08] [info] Starting package "camera"
+[2019-12-27 18:11:08] [info] Starting package "utils"
+[2019-12-27 18:11:08] [info] Starting package "json"
+[2019-12-27 18:11:08] [info] Starting package "projectr"
+[2019-12-27 18:11:08] [script] 1
+[2019-12-27 18:11:08] [info] Starting package "dialogNPC"
+[2019-12-27 18:11:08] [info] Starting package "charaCrea"
+[2019-12-27 18:11:08] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 18:11:08] [info] Max players set to 100
+[2019-12-27 18:11:08] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:11:08] [info] Listening on 127.0.0.1
+[2019-12-27 18:11:08] [info] Open port channels:
+[2019-12-27 18:11:08] [info] 	UDP 7777 (game)
+[2019-12-27 18:11:08] [info] 	UDP 7776 (query)
+[2019-12-27 18:11:08] [info] 	TCP 7775 (file)
+[2019-12-27 18:11:08] [info] Server loaded. Entering simulation...
+[2019-12-27 18:11:10] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 18:11:10] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 18:16:38] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:16:38] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:16:38] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:16:40] [info] Windows Server is starting
+[2019-12-27 18:16:40] [info] Detected 8 logical processors
+[2019-12-27 18:16:40] [info] Loaded 21 weapons from config
+[2019-12-27 18:16:40] [info] Loading plugin "mariadb"
+[2019-12-27 18:16:40] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:16:40] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:16:40] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:16:40] [info] Starting package "packagemanager"
+[2019-12-27 18:16:40] [info] Starting package "default"
+[2019-12-27 18:16:40] [script] Door Count: 567
+[2019-12-27 18:16:40] [info] Starting package "camera"
+[2019-12-27 18:16:40] [info] Starting package "utils"
+[2019-12-27 18:16:40] [info] Starting package "json"
+[2019-12-27 18:16:40] [info] Starting package "projectr"
+[2019-12-27 18:16:40] [script] 1
+[2019-12-27 18:16:40] [info] Starting package "dialogNPC"
+[2019-12-27 18:16:40] [info] Starting package "charaCrea"
+[2019-12-27 18:16:40] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 18:16:40] [info] Max players set to 100
+[2019-12-27 18:16:40] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:16:40] [info] Listening on 127.0.0.1
+[2019-12-27 18:16:40] [info] Open port channels:
+[2019-12-27 18:16:40] [info] 	UDP 7777 (game)
+[2019-12-27 18:16:40] [info] 	UDP 7776 (query)
+[2019-12-27 18:16:40] [info] 	TCP 7775 (file)
+[2019-12-27 18:16:40] [info] Server loaded. Entering simulation...
+[2019-12-27 18:16:42] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:16:42] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:16:42] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:16:54] [info] Windows Server is starting
+[2019-12-27 18:16:54] [info] Detected 8 logical processors
+[2019-12-27 18:16:54] [info] Loaded 21 weapons from config
+[2019-12-27 18:16:54] [info] Loading plugin "mariadb"
+[2019-12-27 18:16:54] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:16:54] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:16:54] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:16:54] [info] Starting package "packagemanager"
+[2019-12-27 18:16:54] [info] Starting package "default"
+[2019-12-27 18:16:54] [script] Door Count: 567
+[2019-12-27 18:16:54] [info] Starting package "camera"
+[2019-12-27 18:16:54] [info] Starting package "utils"
+[2019-12-27 18:16:54] [info] Starting package "json"
+[2019-12-27 18:16:54] [info] Starting package "projectr"
+[2019-12-27 18:16:54] [script] 1
+[2019-12-27 18:16:54] [info] Starting package "dialogNPC"
+[2019-12-27 18:16:54] [info] Starting package "charaCrea"
+[2019-12-27 18:16:54] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 18:16:54] [info] Max players set to 100
+[2019-12-27 18:16:54] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:16:54] [info] Listening on 127.0.0.1
+[2019-12-27 18:16:54] [info] Open port channels:
+[2019-12-27 18:16:54] [info] 	UDP 7777 (game)
+[2019-12-27 18:16:54] [info] 	UDP 7776 (query)
+[2019-12-27 18:16:54] [info] 	TCP 7775 (file)
+[2019-12-27 18:16:54] [info] Server loaded. Entering simulation...
+[2019-12-27 18:16:57] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 18:16:57] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 18:17:48] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:17:49] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:17:49] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:17:50] [info] Windows Server is starting
+[2019-12-27 18:17:50] [info] Detected 8 logical processors
+[2019-12-27 18:17:50] [info] Loaded 21 weapons from config
+[2019-12-27 18:17:50] [info] Loading plugin "mariadb"
+[2019-12-27 18:17:50] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:17:50] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:17:50] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:17:50] [info] Starting package "packagemanager"
+[2019-12-27 18:17:50] [info] Starting package "default"
+[2019-12-27 18:17:50] [script] Door Count: 567
+[2019-12-27 18:17:50] [info] Starting package "camera"
+[2019-12-27 18:17:50] [info] Starting package "utils"
+[2019-12-27 18:17:50] [info] Starting package "json"
+[2019-12-27 18:17:50] [info] Starting package "projectr"
+[2019-12-27 18:17:50] [script] 1
+[2019-12-27 18:17:50] [info] Starting package "dialogNPC"
+[2019-12-27 18:17:50] [info] Starting package "charaCrea"
+[2019-12-27 18:17:50] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 18:17:50] [info] Max players set to 100
+[2019-12-27 18:17:50] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:17:50] [info] Listening on 127.0.0.1
+[2019-12-27 18:17:50] [info] Open port channels:
+[2019-12-27 18:17:50] [info] 	UDP 7777 (game)
+[2019-12-27 18:17:50] [info] 	UDP 7776 (query)
+[2019-12-27 18:17:50] [info] 	TCP 7775 (file)
+[2019-12-27 18:17:50] [info] Server loaded. Entering simulation...
+[2019-12-27 18:17:53] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 18:17:54] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 18:36:50] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:36:51] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:36:51] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:36:52] [info] Windows Server is starting
+[2019-12-27 18:36:52] [info] Detected 8 logical processors
+[2019-12-27 18:36:52] [info] Loaded 21 weapons from config
+[2019-12-27 18:36:52] [info] Loading plugin "mariadb"
+[2019-12-27 18:36:52] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:36:52] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:36:52] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:36:52] [info] Starting package "packagemanager"
+[2019-12-27 18:36:52] [info] Starting package "default"
+[2019-12-27 18:36:52] [script] Door Count: 567
+[2019-12-27 18:36:52] [info] Starting package "camera"
+[2019-12-27 18:36:52] [info] Starting package "utils"
+[2019-12-27 18:36:52] [info] Starting package "json"
+[2019-12-27 18:36:52] [info] Starting package "projectr"
+[2019-12-27 18:36:52] [script] 1
+[2019-12-27 18:36:52] [info] Starting package "dialogNPC"
+[2019-12-27 18:36:52] [info] Starting package "charaCrea"
+[2019-12-27 18:36:52] [info] Package load done, clients will download 20 files with a total of 205 KB
+[2019-12-27 18:36:52] [info] Max players set to 100
+[2019-12-27 18:36:52] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:36:52] [info] Listening on 127.0.0.1
+[2019-12-27 18:36:52] [info] Open port channels:
+[2019-12-27 18:36:52] [info] 	UDP 7777 (game)
+[2019-12-27 18:36:52] [info] 	UDP 7776 (query)
+[2019-12-27 18:36:52] [info] 	TCP 7775 (file)
+[2019-12-27 18:36:52] [info] Server loaded. Entering simulation...
+[2019-12-27 18:36:54] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 18:36:55] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 18:43:00] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:43:01] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:43:01] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:43:02] [info] Windows Server is starting
+[2019-12-27 18:43:02] [info] Detected 8 logical processors
+[2019-12-27 18:43:02] [info] Loaded 21 weapons from config
+[2019-12-27 18:43:02] [info] Loading plugin "mariadb"
+[2019-12-27 18:43:02] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:43:02] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:43:02] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:43:02] [info] Starting package "packagemanager"
+[2019-12-27 18:43:02] [info] Starting package "default"
+[2019-12-27 18:43:02] [script] Door Count: 567
+[2019-12-27 18:43:02] [info] Starting package "camera"
+[2019-12-27 18:43:02] [info] Starting package "utils"
+[2019-12-27 18:43:02] [info] Starting package "json"
+[2019-12-27 18:43:02] [info] Starting package "projectr"
+[2019-12-27 18:43:02] [script] 1
+[2019-12-27 18:43:02] [info] Starting package "dialogNPC"
+[2019-12-27 18:43:02] [info] Starting package "charaCrea"
+[2019-12-27 18:43:02] [info] Package load done, clients will download 20 files with a total of 206 KB
+[2019-12-27 18:43:02] [info] Max players set to 100
+[2019-12-27 18:43:02] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:43:02] [info] Listening on 127.0.0.1
+[2019-12-27 18:43:02] [info] Open port channels:
+[2019-12-27 18:43:02] [info] 	UDP 7777 (game)
+[2019-12-27 18:43:02] [info] 	UDP 7776 (query)
+[2019-12-27 18:43:02] [info] 	TCP 7775 (file)
+[2019-12-27 18:43:02] [info] Server loaded. Entering simulation...
+[2019-12-27 18:43:04] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 18:43:04] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 18:44:42] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:44:42] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:44:42] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:44:43] [info] Windows Server is starting
+[2019-12-27 18:44:43] [info] Detected 8 logical processors
+[2019-12-27 18:44:44] [info] Loaded 21 weapons from config
+[2019-12-27 18:44:44] [info] Loading plugin "mariadb"
+[2019-12-27 18:44:44] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:44:44] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:44:44] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:44:44] [info] Starting package "packagemanager"
+[2019-12-27 18:44:44] [info] Starting package "default"
+[2019-12-27 18:44:44] [script] Door Count: 567
+[2019-12-27 18:44:44] [info] Starting package "camera"
+[2019-12-27 18:44:44] [info] Starting package "utils"
+[2019-12-27 18:44:44] [info] Starting package "json"
+[2019-12-27 18:44:44] [info] Starting package "projectr"
+[2019-12-27 18:44:44] [script] 1
+[2019-12-27 18:44:44] [info] Starting package "dialogNPC"
+[2019-12-27 18:44:44] [info] Starting package "charaCrea"
+[2019-12-27 18:44:44] [info] Package load done, clients will download 20 files with a total of 206 KB
+[2019-12-27 18:44:44] [info] Max players set to 100
+[2019-12-27 18:44:44] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:44:44] [info] Listening on 127.0.0.1
+[2019-12-27 18:44:44] [info] Open port channels:
+[2019-12-27 18:44:44] [info] 	UDP 7777 (game)
+[2019-12-27 18:44:44] [info] 	UDP 7776 (query)
+[2019-12-27 18:44:44] [info] 	TCP 7775 (file)
+[2019-12-27 18:44:44] [info] Server loaded. Entering simulation...
+[2019-12-27 18:44:46] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 18:44:46] [info] Player (ID 1) joining the game (127.0.0.1:51290)
+[2019-12-27 18:51:03] [info] Detected CTRL+C, shutting down...
+[2019-12-27 18:51:04] [info] MariaDB: Unloading plugin...
+[2019-12-27 18:51:04] [info] MariaDB: Plugin unloaded.
+
+[2019-12-27 18:51:05] [info] Windows Server is starting
+[2019-12-27 18:51:05] [info] Detected 8 logical processors
+[2019-12-27 18:51:05] [info] Loaded 21 weapons from config
+[2019-12-27 18:51:05] [info] Loading plugin "mariadb"
+[2019-12-27 18:51:05] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-27 18:51:05] [info] Loading plugin "ini-plugin"
+[2019-12-27 18:51:05] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-27 18:51:05] [info] Starting package "packagemanager"
+[2019-12-27 18:51:05] [info] Starting package "default"
+[2019-12-27 18:51:05] [script] Door Count: 567
+[2019-12-27 18:51:05] [info] Starting package "camera"
+[2019-12-27 18:51:05] [info] Starting package "utils"
+[2019-12-27 18:51:05] [info] Starting package "json"
+[2019-12-27 18:51:05] [info] Starting package "projectr"
+[2019-12-27 18:51:05] [script] 1
+[2019-12-27 18:51:05] [info] Starting package "dialogNPC"
+[2019-12-27 18:51:05] [info] Starting package "charaCrea"
+[2019-12-27 18:51:05] [info] Package load done, clients will download 20 files with a total of 206 KB
+[2019-12-27 18:51:05] [info] Max players set to 100
+[2019-12-27 18:51:05] [info] VoIP systems activated at 24000hz
+[2019-12-27 18:51:05] [info] Listening on 127.0.0.1
+[2019-12-27 18:51:05] [info] Open port channels:
+[2019-12-27 18:51:05] [info] 	UDP 7777 (game)
+[2019-12-27 18:51:05] [info] 	UDP 7776 (query)
+[2019-12-27 18:51:05] [info] 	TCP 7775 (file)
+[2019-12-27 18:51:05] [info] Server loaded. Entering simulation...
+[2019-12-27 18:51:08] [info] Client requesting connection 127.0.0.1:51290
+[2019-12-27 18:51:08] [info] Player (ID 1) joining the game (127.0.0.1:51290)
