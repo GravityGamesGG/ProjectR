@@ -1,3 +1,9 @@
+AddEvent("OnKeyPress", function(key)
+	if key == "Tab" then
+        ExecuteWebJS(webui, "window.vm.showCharaCustom = !window.vm.showCharaCustom")
+    end
+end)
+
 --[[
 	Clothing0 => Cheveux
 	Clothing1 => Torse(Dessous)
@@ -7,7 +13,6 @@
 	Clothing5 => Pieds
 ]]
 AddEvent("OnCharaCustom", function (clothing0, clothing1, clothing2, clothing3, clothing4, clothing5, body)
-
 	local SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Clothing0")
 	if clothing0 then
 		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(clothing0))
@@ -53,7 +58,6 @@ AddEvent("OnCharaCustom", function (clothing0, clothing1, clothing2, clothing3, 
 	SkeletalMeshComponent = GetPlayerSkeletalMeshComponent(GetPlayerId(), "Body")
 	if body then
 		SkeletalMeshComponent:SetSkeletalMesh(USkeletalMesh.LoadFromAsset(body))
-	else
-		SkeletalMeshComponent:SetSkeletalMesh(nil)
 	end
 end )
+

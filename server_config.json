@@ -20,9 +20,7 @@
 		"camera",
 		"utils",
 		"json",
-		"projectr",
-		"dialogNPC",
-		"charaCrea"
+		"projectr"
 	],
 	"stream_distance": 12000.0,
 	"stream_update_rate": 0.05,

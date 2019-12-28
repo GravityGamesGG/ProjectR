@@ -15,3 +15,8 @@ AddEvent("OnPackageStart", function()
     SetNPCAnimation(npcId, "CALLME", true)
 end)
 
+AddEvent("OnNPCStreamIn", function(npcid, player)
+    if DialogNPC[npcid] then
+        CallRemoteEvent(player, "setupNPC", DialogNPC[npcid])
+    end
+end)

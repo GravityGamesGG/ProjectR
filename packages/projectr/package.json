@@ -2,26 +2,31 @@
 	"author": "GravityGames",
 	"version": "1.0",
 	"server_scripts": [
-		"server/init.lua",
-		"server/commands/vehicle.lua",
-		"server/localEvents/playerEvents.lua",
-		"server/localEvents/OnPackageStart.lua",
-		"server/localEvents/npcEvents.lua",
-		"server/clientEvents/OnInteractNPC.lua"
+		"account/server.lua",
+		"charaCustom/server.lua",
+		"chatCommands/server.lua",
+		"globals/server.lua",
+		"dialogNPC/server.lua",
+		"misc/server.lua",
+		"npc/server.lua",
+		"targeting/server.lua",
+		"UI/server.lua"
 	],
 	"client_scripts": [
-		"client/init.lua",
-		"client/localEvents/gameEvents.lua",
-		"client/localEvents/keysEvents.lua",
-		"client/localEvents/playerEvents.lua",
-		"client/localEvents/miscEvents.lua",
-		"client/serverEvents/setupNPC.lua",
-		"client/uiEvents/uiEvents.lua"
+		"account/client.lua",
+		"charaCustom/client.lua",
+		"chatCommands/client.lua",
+		"globals/client.lua",
+		"dialogNPC/client.lua",
+		"misc/client.lua",
+		"npc/client.lua",
+		"targeting/client.lua",
+		"UI/client.lua"
 	],
 	"files": [
-		"client/html/index.html",
-		"client/html/css/app.css",
-		"client/html/js/app.js",
-		"client/html/js/chunk-vendors.js"
+		"UI/html/index.html",
+		"UI/html/css/app.css",
+		"UI/html/js/app.js",
+		"UI/html/js/chunk-vendors.js"
 	]
 }
