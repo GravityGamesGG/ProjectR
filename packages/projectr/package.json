@@ -10,7 +10,8 @@
 		"misc/server.lua",
 		"npc/server.lua",
 		"targeting/server.lua",
-		"UI/server.lua"
+		"UI/server.lua",
+		"gameTime/server.lua"
 	],
 	"client_scripts": [
 		"account/client.lua",
@@ -21,7 +22,8 @@
 		"misc/client.lua",
 		"npc/client.lua",
 		"targeting/client.lua",
-		"UI/client.lua"
+		"UI/client.lua",
+		"gameTime/client.lua"
 	],
 	"files": [
 		"UI/html/index.html",

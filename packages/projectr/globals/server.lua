@@ -2,5 +2,7 @@
 PlayerData = {}
 DialogNPC = {}
 
+GameTime = 12.0
+
 PLAYER_STATE_FREE = 1
 PLAYER_STATE_IN_DIALOG = 2

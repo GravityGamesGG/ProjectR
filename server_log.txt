@@ -14101,3 +14101,1667 @@
 [2019-12-28 18:48:19] [info] Detected CTRL+C, shutting down...
 [2019-12-28 18:48:19] [info] MariaDB: Unloading plugin...
 [2019-12-28 18:48:19] [info] MariaDB: Plugin unloaded.
+
+[2019-12-28 20:48:48] [info] Windows Server is starting
+[2019-12-28 20:48:48] [info] Detected 8 logical processors
+[2019-12-28 20:48:48] [info] Loaded 21 weapons from config
+[2019-12-28 20:48:48] [info] Loading plugin "mariadb"
+[2019-12-28 20:48:48] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-28 20:48:48] [info] Loading plugin "ini-plugin"
+[2019-12-28 20:48:48] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-28 20:48:48] [info] Starting package "packagemanager"
+[2019-12-28 20:48:48] [info] Starting package "default"
+[2019-12-28 20:48:48] [script] Door Count: 567
+[2019-12-28 20:48:48] [info] Starting package "camera"
+[2019-12-28 20:48:48] [info] Starting package "utils"
+[2019-12-28 20:48:48] [info] Starting package "json"
+[2019-12-28 20:48:48] [info] Starting package "projectr"
+[2019-12-28 20:48:48] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-28 20:48:48] [script] 1
+[2019-12-28 20:48:48] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-28 20:48:48] [info] Max players set to 100
+[2019-12-28 20:48:48] [info] VoIP systems activated at 24000hz
+[2019-12-28 20:48:48] [info] Listening on 127.0.0.1
+[2019-12-28 20:48:48] [info] Open port channels:
+[2019-12-28 20:48:48] [info] 	UDP 7777 (game)
+[2019-12-28 20:48:48] [info] 	UDP 7776 (query)
+[2019-12-28 20:48:48] [info] 	TCP 7775 (file)
+[2019-12-28 20:48:48] [info] Server loaded. Entering simulation...
+[2019-12-28 20:48:51] [info] Client requesting connection 127.0.0.1:64800
+[2019-12-28 20:48:51] [info] Player (ID 1) joining the game (127.0.0.1:64800)
+[2019-12-28 20:49:54] [info] Detected CTRL+C, shutting down...
+[2019-12-28 20:49:54] [info] MariaDB: Unloading plugin...
+[2019-12-28 20:49:54] [info] MariaDB: Plugin unloaded.
+
+[2019-12-28 20:50:06] [info] Windows Server is starting
+[2019-12-28 20:50:06] [info] Detected 8 logical processors
+[2019-12-28 20:50:07] [info] Loaded 21 weapons from config
+[2019-12-28 20:50:07] [info] Loading plugin "mariadb"
+[2019-12-28 20:50:07] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-28 20:50:07] [info] Loading plugin "ini-plugin"
+[2019-12-28 20:50:07] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-28 20:50:07] [info] Starting package "packagemanager"
+[2019-12-28 20:50:07] [info] Starting package "default"
+[2019-12-28 20:50:07] [script] Door Count: 567
+[2019-12-28 20:50:07] [info] Starting package "camera"
+[2019-12-28 20:50:07] [info] Starting package "utils"
+[2019-12-28 20:50:07] [info] Starting package "json"
+[2019-12-28 20:50:07] [info] Starting package "projectr"
+[2019-12-28 20:50:07] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-28 20:50:07] [script] 1
+[2019-12-28 20:50:07] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-28 20:50:07] [info] Max players set to 100
+[2019-12-28 20:50:07] [info] VoIP systems activated at 24000hz
+[2019-12-28 20:50:07] [info] Listening on 127.0.0.1
+[2019-12-28 20:50:07] [info] Open port channels:
+[2019-12-28 20:50:07] [info] 	UDP 7777 (game)
+[2019-12-28 20:50:07] [info] 	UDP 7776 (query)
+[2019-12-28 20:50:07] [info] 	TCP 7775 (file)
+[2019-12-28 20:50:07] [info] Server loaded. Entering simulation...
+[2019-12-28 20:50:11] [info] Client requesting connection 127.0.0.1:64800
+[2019-12-28 20:50:11] [info] Player (ID 1) joining the game (127.0.0.1:64800)
+[2019-12-28 20:51:23] [info] Detected CTRL+C, shutting down...
+[2019-12-28 20:51:23] [info] MariaDB: Unloading plugin...
+[2019-12-28 20:51:23] [info] MariaDB: Plugin unloaded.
+
+[2019-12-28 20:51:34] [info] Windows Server is starting
+[2019-12-28 20:51:34] [info] Detected 8 logical processors
+[2019-12-28 20:51:34] [info] Loaded 21 weapons from config
+[2019-12-28 20:51:34] [info] Loading plugin "mariadb"
+[2019-12-28 20:51:34] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-28 20:51:34] [info] Loading plugin "ini-plugin"
+[2019-12-28 20:51:34] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-28 20:51:34] [info] Starting package "packagemanager"
+[2019-12-28 20:51:34] [info] Starting package "default"
+[2019-12-28 20:51:34] [script] Door Count: 567
+[2019-12-28 20:51:34] [info] Starting package "camera"
+[2019-12-28 20:51:34] [info] Starting package "utils"
+[2019-12-28 20:51:34] [info] Starting package "json"
+[2019-12-28 20:51:34] [info] Starting package "projectr"
+[2019-12-28 20:51:34] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-28 20:51:34] [script] 1
+[2019-12-28 20:51:34] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-28 20:51:34] [info] Max players set to 100
+[2019-12-28 20:51:34] [info] VoIP systems activated at 24000hz
+[2019-12-28 20:51:34] [info] Listening on 127.0.0.1
+[2019-12-28 20:51:34] [info] Open port channels:
+[2019-12-28 20:51:34] [info] 	UDP 7777 (game)
+[2019-12-28 20:51:34] [info] 	UDP 7776 (query)
+[2019-12-28 20:51:34] [info] 	TCP 7775 (file)
+[2019-12-28 20:51:34] [info] Server loaded. Entering simulation...
+[2019-12-28 20:51:37] [info] Client requesting connection 127.0.0.1:64800
+[2019-12-28 20:51:37] [info] Player (ID 1) joining the game (127.0.0.1:64800)
+[2019-12-28 20:53:59] [info] Detected CTRL+C, shutting down...
+[2019-12-28 20:54:00] [info] MariaDB: Unloading plugin...
+[2019-12-28 20:54:00] [info] MariaDB: Plugin unloaded.
+
+[2019-12-29 20:33:57] [info] Windows Server is starting
+[2019-12-29 20:33:57] [info] Detected 8 logical processors
+[2019-12-29 20:33:57] [info] Loaded 21 weapons from config
+[2019-12-29 20:33:57] [info] Loading plugin "mariadb"
+[2019-12-29 20:33:57] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-29 20:33:57] [info] Loading plugin "ini-plugin"
+[2019-12-29 20:33:57] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-29 20:33:57] [info] Starting package "packagemanager"
+[2019-12-29 20:33:57] [info] Starting package "default"
+[2019-12-29 20:33:57] [script] Door Count: 567
+[2019-12-29 20:33:57] [info] Starting package "camera"
+[2019-12-29 20:33:57] [info] Starting package "utils"
+[2019-12-29 20:33:57] [info] Starting package "json"
+[2019-12-29 20:33:57] [info] Starting package "projectr"
+[2019-12-29 20:33:57] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-29 20:33:57] [script] 1
+[2019-12-29 20:33:57] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-29 20:33:57] [info] Max players set to 100
+[2019-12-29 20:33:57] [info] VoIP systems activated at 24000hz
+[2019-12-29 20:33:57] [info] Listening on 127.0.0.1
+[2019-12-29 20:33:57] [info] Open port channels:
+[2019-12-29 20:33:57] [info] 	UDP 7777 (game)
+[2019-12-29 20:33:57] [info] 	UDP 7776 (query)
+[2019-12-29 20:33:57] [info] 	TCP 7775 (file)
+[2019-12-29 20:33:57] [info] Server loaded. Entering simulation...
+[2019-12-29 20:34:03] [info] Client requesting connection 127.0.0.1:60621
+[2019-12-29 20:34:03] [info] Player (ID 1) joining the game (127.0.0.1:60621)
+[2019-12-29 20:35:12] [info] Detected CTRL+C, shutting down...
+[2019-12-29 20:35:13] [info] MariaDB: Unloading plugin...
+[2019-12-29 20:35:13] [info] MariaDB: Plugin unloaded.
+
+[2019-12-29 20:35:14] [info] Windows Server is starting
+[2019-12-29 20:35:14] [info] Detected 8 logical processors
+[2019-12-29 20:35:14] [info] Loaded 21 weapons from config
+[2019-12-29 20:35:14] [info] Loading plugin "mariadb"
+[2019-12-29 20:35:14] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-29 20:35:14] [info] Loading plugin "ini-plugin"
+[2019-12-29 20:35:14] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-29 20:35:14] [info] Starting package "packagemanager"
+[2019-12-29 20:35:15] [info] Starting package "default"
+[2019-12-29 20:35:15] [script] Door Count: 567
+[2019-12-29 20:35:15] [info] Starting package "camera"
+[2019-12-29 20:35:15] [info] Starting package "utils"
+[2019-12-29 20:35:15] [info] Starting package "json"
+[2019-12-29 20:35:15] [info] Starting package "projectr"
+[2019-12-29 20:35:15] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-29 20:35:15] [script] 1
+[2019-12-29 20:35:15] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-29 20:35:15] [info] Max players set to 100
+[2019-12-29 20:35:15] [info] VoIP systems activated at 24000hz
+[2019-12-29 20:35:15] [info] Listening on 127.0.0.1
+[2019-12-29 20:35:15] [info] Open port channels:
+[2019-12-29 20:35:15] [info] 	UDP 7777 (game)
+[2019-12-29 20:35:15] [info] 	UDP 7776 (query)
+[2019-12-29 20:35:15] [info] 	TCP 7775 (file)
+[2019-12-29 20:35:15] [info] Server loaded. Entering simulation...
+[2019-12-29 20:35:17] [info] Client requesting connection 127.0.0.1:60621
+[2019-12-29 20:35:17] [info] Player (ID 1) joining the game (127.0.0.1:60621)
+[2019-12-29 20:35:49] [info] Detected CTRL+C, shutting down...
+[2019-12-29 20:35:50] [info] MariaDB: Unloading plugin...
+[2019-12-29 20:35:50] [info] MariaDB: Plugin unloaded.
+
+[2019-12-29 20:36:41] [info] Windows Server is starting
+[2019-12-29 20:36:41] [info] Detected 8 logical processors
+[2019-12-29 20:36:41] [info] Loaded 21 weapons from config
+[2019-12-29 20:36:41] [info] Loading plugin "mariadb"
+[2019-12-29 20:36:41] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-29 20:36:41] [info] Loading plugin "ini-plugin"
+[2019-12-29 20:36:41] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-29 20:36:41] [info] Starting package "packagemanager"
+[2019-12-29 20:36:41] [info] Starting package "default"
+[2019-12-29 20:36:41] [script] Door Count: 567
+[2019-12-29 20:36:41] [info] Starting package "camera"
+[2019-12-29 20:36:41] [info] Starting package "utils"
+[2019-12-29 20:36:41] [info] Starting package "json"
+[2019-12-29 20:36:41] [info] Starting package "projectr"
+[2019-12-29 20:36:41] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-29 20:36:41] [script] 1
+[2019-12-29 20:36:41] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-29 20:36:41] [info] Max players set to 100
+[2019-12-29 20:36:41] [info] VoIP systems activated at 24000hz
+[2019-12-29 20:36:41] [info] Listening on 127.0.0.1
+[2019-12-29 20:36:41] [info] Open port channels:
+[2019-12-29 20:36:41] [info] 	UDP 7777 (game)
+[2019-12-29 20:36:41] [info] 	UDP 7776 (query)
+[2019-12-29 20:36:41] [info] 	TCP 7775 (file)
+[2019-12-29 20:36:41] [info] Server loaded. Entering simulation...
+[2019-12-29 20:36:41] [script] 1200.0
+[2019-12-29 20:36:41] [script] 1200.0
+[2019-12-29 20:36:41] [script] 1200.0
+[2019-12-29 20:36:41] [script] 1200.0
+[2019-12-29 20:36:41] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:42] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:43] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:44] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:45] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:46] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:47] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:48] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:49] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:50] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:51] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:52] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:53] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:54] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:55] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:56] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:57] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:58] [script] 1200.0
+[2019-12-29 20:36:59] [script] 1200.0
+[2019-12-29 20:36:59] [script] 1200.0
+[2019-12-29 20:36:59] [script] 1200.0
+[2019-12-29 20:36:59] [script] 1200.0
+[2019-12-29 20:36:59] [script] 1200.0
+[2019-12-29 20:36:59] [script] 1200.0
+[2019-12-29 20:36:59] [info] Detected CTRL+C, shutting down...
+[2019-12-29 20:37:00] [info] MariaDB: Unloading plugin...
+[2019-12-29 20:37:00] [info] MariaDB: Plugin unloaded.
+
+[2019-12-29 21:36:46] [info] Windows Server is starting
+[2019-12-29 21:36:46] [info] Detected 8 logical processors
+[2019-12-29 21:36:46] [info] Loaded 21 weapons from config
+[2019-12-29 21:36:46] [info] Loading plugin "mariadb"
+[2019-12-29 21:36:46] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-29 21:36:46] [info] Loading plugin "ini-plugin"
+[2019-12-29 21:36:46] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-29 21:36:46] [info] Starting package "packagemanager"
+[2019-12-29 21:36:46] [info] Starting package "default"
+[2019-12-29 21:36:46] [script] Door Count: 567
+[2019-12-29 21:36:46] [info] Starting package "camera"
+[2019-12-29 21:36:46] [info] Starting package "utils"
+[2019-12-29 21:36:46] [info] Starting package "json"
+[2019-12-29 21:36:46] [info] Starting package "projectr"
+[2019-12-29 21:36:46] [error] [string "projectr/gameTime/server.lua"]:4: attempt to call a nil value (global 'CreateTime')
+[2019-12-29 21:36:46] [error] Package "projectr" failed to start
+[2019-12-29 21:36:46] [info] Package load done, clients will download 6 files with a total of 88 KB
+[2019-12-29 21:36:46] [info] Max players set to 100
+[2019-12-29 21:36:46] [info] VoIP systems activated at 24000hz
+[2019-12-29 21:36:46] [info] Listening on 127.0.0.1
+[2019-12-29 21:36:46] [info] Open port channels:
+[2019-12-29 21:36:46] [info] 	UDP 7777 (game)
+[2019-12-29 21:36:46] [info] 	UDP 7776 (query)
+[2019-12-29 21:36:46] [info] 	TCP 7775 (file)
+[2019-12-29 21:36:46] [info] Server loaded. Entering simulation...
+[2019-12-29 21:36:57] [info] Detected CTRL+C, shutting down...
+[2019-12-29 21:36:57] [info] MariaDB: Unloading plugin...
+[2019-12-29 21:36:57] [info] MariaDB: Plugin unloaded.
+
+[2019-12-29 21:36:58] [info] Windows Server is starting
+[2019-12-29 21:36:58] [info] Detected 8 logical processors
+[2019-12-29 21:36:58] [info] Loaded 21 weapons from config
+[2019-12-29 21:36:58] [info] Loading plugin "mariadb"
+[2019-12-29 21:36:58] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-29 21:36:58] [info] Loading plugin "ini-plugin"
+[2019-12-29 21:36:58] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-29 21:36:58] [info] Starting package "packagemanager"
+[2019-12-29 21:36:58] [info] Starting package "default"
+[2019-12-29 21:36:58] [script] Door Count: 567
+[2019-12-29 21:36:58] [info] Starting package "camera"
+[2019-12-29 21:36:58] [info] Starting package "utils"
+[2019-12-29 21:36:58] [info] Starting package "json"
+[2019-12-29 21:36:58] [info] Starting package "projectr"
+[2019-12-29 21:36:58] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-29 21:36:58] [script] 1
+[2019-12-29 21:36:58] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-29 21:36:58] [info] Max players set to 100
+[2019-12-29 21:36:58] [info] VoIP systems activated at 24000hz
+[2019-12-29 21:36:58] [info] Listening on 127.0.0.1
+[2019-12-29 21:36:58] [info] Open port channels:
+[2019-12-29 21:36:58] [info] 	UDP 7777 (game)
+[2019-12-29 21:36:58] [info] 	UDP 7776 (query)
+[2019-12-29 21:36:58] [info] 	TCP 7775 (file)
+[2019-12-29 21:36:58] [info] Server loaded. Entering simulation...
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:58] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:36:59] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:00] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:01] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [info] Detected CTRL+C, shutting down...
+[2019-12-29 21:37:02] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-29 21:37:02] [info] MariaDB: Unloading plugin...
+[2019-12-29 21:37:02] [info] MariaDB: Plugin unloaded.
+
+[2019-12-30 10:51:18] [info] Windows Server is starting
+[2019-12-30 10:51:18] [info] Detected 8 logical processors
+[2019-12-30 10:51:18] [info] Loaded 21 weapons from config
+[2019-12-30 10:51:18] [info] Loading plugin "mariadb"
+[2019-12-30 10:51:18] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-30 10:51:18] [info] Loading plugin "ini-plugin"
+[2019-12-30 10:51:18] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-30 10:51:18] [info] Starting package "packagemanager"
+[2019-12-30 10:51:18] [info] Starting package "default"
+[2019-12-30 10:51:18] [script] Door Count: 567
+[2019-12-30 10:51:18] [info] Starting package "camera"
+[2019-12-30 10:51:18] [info] Starting package "utils"
+[2019-12-30 10:51:18] [info] Starting package "json"
+[2019-12-30 10:51:18] [info] Starting package "projectr"
+[2019-12-30 10:51:18] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-30 10:51:18] [script] 1
+[2019-12-30 10:51:18] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-30 10:51:18] [info] Max players set to 100
+[2019-12-30 10:51:18] [info] VoIP systems activated at 24000hz
+[2019-12-30 10:51:18] [info] Listening on 127.0.0.1
+[2019-12-30 10:51:18] [info] Open port channels:
+[2019-12-30 10:51:18] [info] 	UDP 7777 (game)
+[2019-12-30 10:51:18] [info] 	UDP 7776 (query)
+[2019-12-30 10:51:18] [info] 	TCP 7775 (file)
+[2019-12-30 10:51:18] [info] Server loaded. Entering simulation...
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:18] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:19] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [error] [string "projectr/gameTime/server.lua"]:5: attempt to perform arithmetic on a nil value (global 'dayMinute')
+[2019-12-30 10:51:20] [info] Detected CTRL+C, shutting down...
+[2019-12-30 10:51:20] [info] MariaDB: Unloading plugin...
+[2019-12-30 10:51:20] [info] MariaDB: Plugin unloaded.
+
+[2019-12-30 10:51:33] [info] Windows Server is starting
+[2019-12-30 10:51:33] [info] Detected 8 logical processors
+[2019-12-30 10:51:34] [info] Loaded 21 weapons from config
+[2019-12-30 10:51:34] [info] Loading plugin "mariadb"
+[2019-12-30 10:51:34] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-30 10:51:34] [info] Loading plugin "ini-plugin"
+[2019-12-30 10:51:34] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-30 10:51:34] [info] Starting package "packagemanager"
+[2019-12-30 10:51:34] [info] Starting package "default"
+[2019-12-30 10:51:34] [script] Door Count: 567
+[2019-12-30 10:51:34] [info] Starting package "camera"
+[2019-12-30 10:51:34] [info] Starting package "utils"
+[2019-12-30 10:51:34] [info] Starting package "json"
+[2019-12-30 10:51:34] [info] Starting package "projectr"
+[2019-12-30 10:51:34] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-30 10:51:34] [script] 1
+[2019-12-30 10:51:34] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-30 10:51:34] [info] Max players set to 100
+[2019-12-30 10:51:34] [info] VoIP systems activated at 24000hz
+[2019-12-30 10:51:34] [info] Listening on 127.0.0.1
+[2019-12-30 10:51:34] [info] Open port channels:
+[2019-12-30 10:51:34] [info] 	UDP 7777 (game)
+[2019-12-30 10:51:34] [info] 	UDP 7776 (query)
+[2019-12-30 10:51:34] [info] 	TCP 7775 (file)
+[2019-12-30 10:51:34] [info] Server loaded. Entering simulation...
+[2019-12-30 10:51:40] [info] Client requesting connection 127.0.0.1:55630
+[2019-12-30 10:51:40] [info] Player (ID 1) joining the game (127.0.0.1:55630)
+[2019-12-30 10:55:07] [info] Detected CTRL+C, shutting down...
+[2019-12-30 10:55:07] [info] MariaDB: Unloading plugin...
+[2019-12-30 10:55:07] [info] MariaDB: Plugin unloaded.
+
+[2019-12-30 11:01:05] [info] Windows Server is starting
+[2019-12-30 11:01:05] [info] Detected 8 logical processors
+[2019-12-30 11:01:05] [info] Loaded 21 weapons from config
+[2019-12-30 11:01:05] [info] Loading plugin "mariadb"
+[2019-12-30 11:01:05] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-30 11:01:05] [info] Loading plugin "ini-plugin"
+[2019-12-30 11:01:05] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-30 11:01:05] [info] Starting package "packagemanager"
+[2019-12-30 11:01:05] [info] Starting package "default"
+[2019-12-30 11:01:05] [script] Door Count: 567
+[2019-12-30 11:01:05] [info] Starting package "camera"
+[2019-12-30 11:01:05] [info] Starting package "utils"
+[2019-12-30 11:01:05] [info] Starting package "json"
+[2019-12-30 11:01:05] [info] Starting package "projectr"
+[2019-12-30 11:01:05] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-30 11:01:05] [script] 1
+[2019-12-30 11:01:05] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-30 11:01:05] [info] Max players set to 100
+[2019-12-30 11:01:05] [info] VoIP systems activated at 24000hz
+[2019-12-30 11:01:05] [info] Listening on 127.0.0.1
+[2019-12-30 11:01:05] [info] Open port channels:
+[2019-12-30 11:01:05] [info] 	UDP 7777 (game)
+[2019-12-30 11:01:05] [info] 	UDP 7776 (query)
+[2019-12-30 11:01:05] [info] 	TCP 7775 (file)
+[2019-12-30 11:01:05] [info] Server loaded. Entering simulation...
+[2019-12-30 11:01:06] [info] Detected CTRL+C, shutting down...
+[2019-12-30 11:01:07] [info] MariaDB: Unloading plugin...
+[2019-12-30 11:01:07] [info] MariaDB: Plugin unloaded.
+
+[2019-12-30 11:01:09] [info] Windows Server is starting
+[2019-12-30 11:01:09] [info] Detected 8 logical processors
+[2019-12-30 11:01:09] [info] Loaded 21 weapons from config
+[2019-12-30 11:01:09] [info] Loading plugin "mariadb"
+[2019-12-30 11:01:09] [info] MariaDB: v1.1 successfully loaded.
+[2019-12-30 11:01:09] [info] Loading plugin "ini-plugin"
+[2019-12-30 11:01:09] [info] ini-plugin: v1.0 successfully loaded.
+[2019-12-30 11:01:09] [info] Starting package "packagemanager"
+[2019-12-30 11:01:09] [info] Starting package "default"
+[2019-12-30 11:01:09] [script] Door Count: 567
+[2019-12-30 11:01:09] [info] Starting package "camera"
+[2019-12-30 11:01:09] [info] Starting package "utils"
+[2019-12-30 11:01:09] [info] Starting package "json"
+[2019-12-30 11:01:09] [info] Starting package "projectr"
+[2019-12-30 11:01:09] [warning] Client script "C:\Users\Johny\Documents\DEV\Onset\server\packages/projectr/chatCommands/client.lua" in package "projectr" was already added
+[2019-12-30 11:01:09] [script] 1
+[2019-12-30 11:01:09] [info] Package load done, clients will download 19 files with a total of 205 KB
+[2019-12-30 11:01:09] [info] Max players set to 100
+[2019-12-30 11:01:09] [info] VoIP systems activated at 24000hz
+[2019-12-30 11:01:09] [info] Listening on 127.0.0.1
+[2019-12-30 11:01:09] [info] Open port channels:
+[2019-12-30 11:01:09] [info] 	UDP 7777 (game)
+[2019-12-30 11:01:09] [info] 	UDP 7776 (query)
+[2019-12-30 11:01:09] [info] 	TCP 7775 (file)
+[2019-12-30 11:01:09] [info] Server loaded. Entering simulation...
+[2019-12-30 11:01:11] [info] Client requesting connection 127.0.0.1:55630
+[2019-12-30 11:01:11] [info] Player (ID 1) joining the game (127.0.0.1:55630)
+[2019-12-30 11:01:56] [info] Detected CTRL+C, shutting down...
+[2019-12-30 11:01:57] [info] MariaDB: Unloading plugin...
+[2019-12-30 11:01:57] [info] MariaDB: Plugin unloaded.
